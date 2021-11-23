@@ -1,12 +1,12 @@
 .home {
-	padding: 5rem 5rem;
-	width: 50%;
+	padding: 5rem 0rem;
+	width: 100%;
 	margin: auto;
 	flex: 1;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-items: center;
+	align-items: left;
 	text-align: justify;
 }
 
@@ -18,5 +18,9 @@
 	.home {
 		padding: 2rem 0rem;
 		width: 100%;
+	}
+
+	.home h1 {
+		font-size: 3rem;
 	}
 }

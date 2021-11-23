@@ -1,15 +1,13 @@
 import Link from "next/link";
 import Menu from "./Menu";
+import Logo from "../logo/Logo";
 import navStyles from "./Nav.module.css";
 
 const Nav = () => {
 	return (
 		<nav className={navStyles.nav}>
 			<Link href="/">
-				<div id={navStyles.logo}>
-					<h4>Digital Anthro</h4>
-					<p>An independent user experience studio</p>
-				</div>
+				<Logo id={navStyles.logo}></Logo>
 			</Link>
 
 			<Menu></Menu>

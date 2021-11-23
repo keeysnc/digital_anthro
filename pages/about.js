@@ -14,15 +14,15 @@ const about = () => {
 			<PageTitle
 				title="About"
 				textTitle=""
-				textDescription="Digital Anthro was founded in 2018 by Creative Technologist, Nathan Keeys due to a curiosity to explore new and emerging front-end web technologies. The curiosity grew and eventually fueled a deeper focus on designing and developing digital experiences. Digital Anthro continues to grow and explore connections between design, technology and digital human behavior."
+				textDescription="Digital Anthro is a niche user experience studio and consultancy specialized in Experience Design, Front-End Web Development & Shopify App Development. The studio was founded in 2018 by Creative Technologist, Nathan Keeys due to the increasing complexities in front-end web development and user experience design. Digital Anthro continues to grow and explore connections between design, technology and digital human behavior."
 			></PageTitle>
 			<div clasName="social-media">
-				<Link target="_blank" href="https://www.linkedin.com/company/digital-anthro">
+				<a target="_blank" href="https://www.linkedin.com/company/digital-anthro">
 					LinkedIn
-				</Link>
-				<Link target="_blank" href="https://www.instagram.com/digitalanthro/">
+				</a>
+				<a target="_blank" href="https://www.instagram.com/digitalanthro/">
 					Instagram
-				</Link>
+				</a>
 			</div>
 		</div>
 	);
