@@ -1,0 +1,18 @@
+.archive__grid {
+	display: flex;
+	flex-wrap: wrap;
+	margin: -10px;
+	width: 100%;
+}
+
+.archiveItem {
+	flex: 1 1 45%;
+	margin: 10px;
+}
+
+.archiveItem img {
+	width: 100%;
+	object-fit: cover;
+	object-position: top;
+	height: 500px;
+}

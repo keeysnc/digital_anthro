@@ -1,33 +1,18 @@
 import Link from "next/link";
+import Menu from "./Menu";
 import navStyles from "./Nav.module.css";
 
 const Nav = () => {
 	return (
 		<nav className={navStyles.nav}>
-			<div id="logo">
-				<h4>Digital Anthro</h4>
-				<p>An independent creative studio</p>
-			</div>
+			<Link href="/">
+				<div id={navStyles.logo}>
+					<h4>Digital Anthro</h4>
+					<p>An independent user experience studio</p>
+				</div>
+			</Link>
 
-			<div id="menu">
-				<ul>
-					<li>
-						<Link href="/">Home</Link>
-					</li>
-					<li>
-						<Link href="/about">About</Link>
-					</li>
-					<li>
-						<Link href="/services">Services</Link>
-					</li>
-					<li>
-						<Link href="/work">Work</Link>
-					</li>
-					<li>
-						<Link href="/events">Events</Link>
-					</li>
-				</ul>
-			</div>
+			<Menu></Menu>
 		</nav>
 	);
 };

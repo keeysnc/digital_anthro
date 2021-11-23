@@ -1,4 +1,23 @@
-.container {
+.layout__container {
+	margin: auto;
+	width: 80%;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+/* 
+.layout__main {
+	padding: 5rem 10rem;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+} */
+
+/* .container {
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
@@ -118,4 +137,4 @@
     width: 100%;
     flex-direction: column;
   }
-}
+} */

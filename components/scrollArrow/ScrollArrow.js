@@ -1,7 +1,9 @@
+import ScrollStyles from "./ScrollArrow.module.css";
+
 const ScrollArrow = () => {
 	return (
-		<div>
-			<h1>Scroll Arrow</h1>
+		<div className={ScrollStyles.scrollArrow}>
+			<p>Scroll</p>
 		</div>
 	);
 };

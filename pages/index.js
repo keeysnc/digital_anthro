@@ -1,38 +1,15 @@
-import Head from "next/head";
-import Image from "next/image";
 import ParagraphText from "../components/paragraphText/ParagraphText";
-import Pagination from "../components/pagination/Pagination";
 import Logo from "../components/logo/Logo";
+import indexStyles from "../styles/Index.module.css";
 
-export default function Home({ articles }) {
+export default function Home() {
 	return (
 		<div>
-			<Head>
-				<title>Web Dev</title>
-				<meta name="keywords"></meta>
-			</Head>
-			<div class="home">
-				<Pagination></Pagination>
-				<Logo></Logo>
-				<ParagraphText></ParagraphText>
+			<div className={indexStyles.home}>
+				<Logo className={indexStyles.logo}></Logo>
+				<br />
+				<ParagraphText textDescription="Digital Anthro focuses on building websites, web apps and design systems for cultural and commercial clients. The studio’s broad goals are to visualize content through research and creative exploration."></ParagraphText>
 			</div>
-			{/* use for work section */}
-
-			{/* {articles.map((article) => (
-				<h3>{article.title}</h3>
-			))} */}
 		</div>
 	);
 }
-
-// getting data before page render
-
-// export const getStaticProps = async () => {
-// 	const res = await fetch(`http://jsonplaceholder.typicode.com/posts/?_limit=6`);
-// 	const articles = await res.json();
-// 	return {
-// 		props: {
-// 			articles,
-// 		},
-// 	};
-// };

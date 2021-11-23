@@ -1,0 +1,16 @@
+.contentBlock {
+	display: flex;
+	width: 100%;
+}
+
+.contentBlock__item {
+	width: 50%;
+	margin: 50px;
+}
+
+.contentBlock__item img {
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+	object-position: top;
+}

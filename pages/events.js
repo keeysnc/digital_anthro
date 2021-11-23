@@ -8,7 +8,7 @@ const events = () => {
 			<Head>
 				<title>Events</title>
 			</Head>
-			<PageTitle title="Events Page"></PageTitle>
+			<PageTitle title="Events & Talks"></PageTitle>
 			<Events></Events>
 		</div>
 	);
