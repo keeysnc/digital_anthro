@@ -1,9 +1,18 @@
 .pageTitle {
 	padding-bottom: 50px;
-	text-align: center;
 }
 
 .pageTitle p {
 	width: 60%;
-	margin: auto;
+}
+
+@media (max-width: 992px) {
+	.pageTitle h1 {
+		font-size: 3em;
+	}
+	.pageTitle p {
+		width: 100%;
+		margin: auto;
+		text-align: justify;
+	}
 }

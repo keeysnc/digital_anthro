@@ -13,3 +13,10 @@
 .logo {
 	margin-bottom: 20px;
 }
+
+@media (max-width: 992px) {
+	.home {
+		padding: 2rem 0rem;
+		width: 100%;
+	}
+}
