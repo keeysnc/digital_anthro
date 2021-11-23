@@ -8,7 +8,7 @@ export default function Home() {
 			<div className={indexStyles.home}>
 				<Logo className={indexStyles.logo}></Logo>
 				<br />
-				<ParagraphText textDescription="Digital Anthro focuses on building websites, web apps and design systems for cultural and commercial clients. The studio’s broad goals are to visualize content through research and creative exploration."></ParagraphText>
+				<ParagraphText textDescription="Digital Anthro is a UI/UX Design & Development Studio. We are a niche studio specialized in Experience Design, Front-End Web Development & Shopify App Development."></ParagraphText>
 			</div>
 		</div>
 	);

@@ -5,3 +5,8 @@
 	flex-direction: column;
 	justify-content: center;
 }
+
+.about a {
+	padding-right: 20px;
+	color: rgb(151, 151, 151);
+}
