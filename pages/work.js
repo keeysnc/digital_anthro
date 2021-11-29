@@ -20,7 +20,7 @@ const work = ({ allPostsData }) => {
 				<title>Work</title>
 			</Head>
 			<PageTitle title="Work"></PageTitle>
-			<Slider allPostsData={allPostsData}></Slider>
+			{/* <Slider allPostsData={allPostsData}></Slider> */}
 			{/* <div className={workStyles.work__grid}>
 				<div className={workStyles.work__grid__item}>
 					<div>

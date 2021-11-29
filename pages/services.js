@@ -9,45 +9,44 @@ const services = () => {
 			<Head>
 				<title>Services</title>
 			</Head>
-			<PageTitle
-				title="Services & Expertise"
-				textDescription="Digital Anthro uses modern component-based front-end development architecture to create scalable and easily maintainable interfaces. At Digital Anthro we exclusively work with Javascript frameworks React & Vue.js."
-			></PageTitle>
+			<PageTitle title="Services & Expertise" textDescription=""></PageTitle>
 			<div className={serviceStyles.services__grid}>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="React Web Development"
-						textDescription="The React framework has grown to be a mature technology for user interface development and handling data on the frontend if your application. Digital Anthro chose this framework as a primary tool because of it's large community of plugins, tools, and integrations with modern decoupled CMS's such as Contentful or Prismic CMS. Creating an interface using React makes it easier to rework, scale and move around your front-end."
-					></ParagraphText>
-				</div>
-				<div className={serviceStyles.services__grid__item}>
-					<ParagraphText
-						textTitle="React & UI/UX Consulting"
-						textDescription="Digital Anthro works with companies to help solve complex UI/UX design & development architectual situations. Our specialities in consulting cover React, React Native, Shopify Headless Development, Shopify App Development ."
-					></ParagraphText>
-				</div>
-				<div className={serviceStyles.services__grid__item}>
-					<ParagraphText
-						textTitle="Web-Based Data Visualization"
-						textDescription="Displaying data on your front-end has become more complex over the years. Digital Anthro utilizes React & Vue.js in combination with interactive front-end tools such as D3.js and Three.js to create beautiful data visualizations that display clear information to your users."
-					></ParagraphText>
-				</div>
-				<div className={serviceStyles.services__grid__item}>
-					<ParagraphText
-						textTitle="React/Node.js Shopify App Development"
-						textDescription="Digital Anthro is a Shopify Partner. We build Shopify apps for stores in need of custom features that aren't found in Shopify Marketplace."
+						textTitle="Front-End Web Development"
+						textDescription="Digital Anthro simplifies the complexities that come with building and maintaining a performant web interface for your users. We use modern front-end technologies and frameworks to build responsive, interactive and secure front-end solutions."
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="UI & UX Design Systems"
-						textDescription="Creating a design system for your application or Shopify storefront is key for scalibility, UI structure and peice of mind. Using design thinking principles and steps we work with companies to create a structured user interface design system that can be easily modified down the road."
+						textDescription="Creating a design system for your application or website is key for easy scalibility and visual brand consistency. Using design thinking principles we work with companies to create modern sleek designs that will give your users a delightful experience."
+					></ParagraphText>
+				</div>
+
+				<div className={serviceStyles.services__grid__item}>
+					<ParagraphText
+						textTitle="Interactive & Data Visualization Websites"
+						textDescription="Displaying data through your applications UI has become more complex over the years. Digital Anthro utilizes front-end technologies in combination with interactive and data visualization tools to create beautiful web experiences that display clear information to your users."
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="Front-End Security Consulting"
-						textDescription="Due to the increase of single page apps and interactive web experiences data is being handled at times in the front-end which can easily be accessed by malicious users. Digital Anthro is certified in Ethical Hacking and knowledgeable of best security practices and methods of protecting your interfaces from users with bad intentions."
+						textTitle="CMS Integration"
+						textDescription="Digital Anthro consults with companies who would like to integrate their websites with content management systems such as Wordpress, Contentful, Prismic CMS and more."
+						link="https://www.sanity.io/blog/headless-cms-explained"
+					></ParagraphText>
+				</div>
+				<div className={serviceStyles.services__grid__item}>
+					<ParagraphText
+						textTitle="UI/UX Design/Front-End Web Development Consulting & Workshops"
+						textDescription="Digital Anthro works with companies to help solve complex UI/UX design & development architectural situations. Our consultancy covers Full Stack Javascript Development, UI/UX Design, CMS integrations and Interactive/Data Visualization Development"
+					></ParagraphText>
+				</div>
+				<div className={serviceStyles.services__grid__item}>
+					<ParagraphText
+						textTitle="Website & Application Security Consulting"
+						textDescription="Due to the increase of single page apps, and interactive web experiences, data is being handled more in the UI layer of applications. This can easily be accessed by malicious users. Digital Anthro is specialized and knowledgeable of best security practices and methods of protecting your interfaces from users with bad intentions."
 					></ParagraphText>
 				</div>
 			</div>

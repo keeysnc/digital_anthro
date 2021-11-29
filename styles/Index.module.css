@@ -7,16 +7,25 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: left;
-	text-align: justify;
 }
 
-.logo {
+.home__content {
 	margin-bottom: 20px;
+	width: 50%;
+}
+
+.home__content h3 {
+	font-weight: 300;
 }
 
 @media (max-width: 992px) {
 	.home {
 		padding: 2rem 0rem;
+		width: 100%;
+	}
+
+	.home__content {
+		margin-bottom: 20px;
 		width: 100%;
 	}
 

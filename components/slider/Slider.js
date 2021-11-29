@@ -26,55 +26,55 @@ const slideArray = [
 		project: "Next.js, React Development, Shopify API",
 		client: "80% Cacao Music",
 	},
-	// {
-	// 	id: "slide 4",
-	// 	link: "/80percentcacao",
-	// 	image: "/work-slider-image.png",
-	// 	project: "Next.js, React Development, Shopify API",
-	// 	client: "80% Cacao Music",
-	// },
-	// {
-	// 	id: "slide 5",
-	// 	link: "",
-	// 	image: "/work-slider-image.png",
-	// 	project: "Front-End Web Development, Wordpress Development",
-	// 	client: "ABF Creative",
-	// },
-	// {
-	// 	id: "slide 6",
-	// 	link: "",
-	// 	image: "/work-slider-image.png",
-	// 	project: "Front-End Web Development, Wordpress Development",
-	// 	client: "ABF Creative",
-	// },
-	// {
-	// 	id: "slide 7",
-	// 	link: "",
-	// 	image: "/work-slider-image.png",
-	// 	project: "",
-	// 	client: "",
-	// },
-	// {
-	// 	id: "slide 8",
-	// 	link: "",
-	// 	image: "/work-slider-image.png",
-	// 	project: "",
-	// 	client: "",
-	// },
-	// {
-	// 	id: "slide 9",
-	// 	link: "",
-	// 	image: "/work-slider-image.png",
-	// 	project: "",
-	// 	client: "",
-	// },
-	// {
-	// 	id: "slide 10",
-	// 	link: "",
-	// 	image: "/work-slider-image.png",
-	// 	project: "",
-	// 	client: "",
-	// },
+	{
+		id: "slide 4",
+		link: "/80percentcacao",
+		image: "/work-slider-image.png",
+		project: "Next.js, React Development, Shopify API",
+		client: "80% Cacao Music",
+	},
+	{
+		id: "slide 5",
+		link: "",
+		image: "/work-slider-image.png",
+		project: "Front-End Web Development, Wordpress Development",
+		client: "ABF Creative",
+	},
+	{
+		id: "slide 6",
+		link: "",
+		image: "/work-slider-image.png",
+		project: "Front-End Web Development, Wordpress Development",
+		client: "ABF Creative",
+	},
+	{
+		id: "slide 7",
+		link: "/work/80percentcacao",
+		image: "/coming-soon-cover.png",
+		project: "Next.js, React Development, Shopify API",
+		client: "80% Cacao Music",
+	},
+	{
+		id: "slide 8",
+		link: "/80percentcacao",
+		image: "/work-slider-image.png",
+		project: "Next.js, React Development, Shopify API",
+		client: "80% Cacao Music",
+	},
+	{
+		id: "slide 9",
+		link: "",
+		image: "/work-slider-image.png",
+		project: "Front-End Web Development, Wordpress Development",
+		client: "ABF Creative",
+	},
+	{
+		id: "slide 10",
+		link: "",
+		image: "/work-slider-image.png",
+		project: "Front-End Web Development, Wordpress Development",
+		client: "ABF Creative",
+	},
 ];
 
 let activeSlidesArray = [];
@@ -84,7 +84,7 @@ let filterActivePrevSlides;
 const Slider = ({ allPostsData }) => {
 	const [activeSlides, setActiveSlides] = useState([]);
 
-	const getSlides = allPostsData.map((slide, i) => {
+	const getSlides = slideArray.map((slide, i) => {
 		return (
 			<li key={i} className={(i % 2 === 0 && i !== 0 ? "last" : null, "slide")}>
 				<div className={sliderStyles.slide__content}>
@@ -192,9 +192,9 @@ const Slider = ({ allPostsData }) => {
 		});
 	});
 
-	// useEffect(() => {
-	// 	setActiveSlides(activeSlidesArray);
-	// }, [activeSlidesArray, setActiveSlides, filterActiveNextSlides, filterActivePrevSlides]);
+	useEffect(() => {
+		setActiveSlides(activeSlidesArray);
+	}, [activeSlidesArray, setActiveSlides, filterActiveNextSlides, filterActivePrevSlides]);
 
 	useEffect(() => {
 		handleUpdateSlides();
@@ -202,14 +202,14 @@ const Slider = ({ allPostsData }) => {
 
 	return (
 		<div className={sliderStyles.slider}>
-			{/* <div className={sliderStyles.slider__pagination}>
+			<div className={sliderStyles.slider__pagination}>
 				<span className={sliderStyles.slider__pagination__previous} onClick={handlePrevious}>
 					Previous
 				</span>
 				<span className={sliderStyles.slider__pagination__next} onClick={handleNext}>
 					Next
 				</span>
-			</div> */}
+			</div>
 			<div className={sliderStyles.slider__inner}>
 				<ul>{activeSlidesArray}</ul>
 			</div>
