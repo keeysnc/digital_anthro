@@ -20,27 +20,27 @@ const services = () => {
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="UI & UX Design Systems"
-						textDescription="Creating a design system for your application or website is key for easy scalibility and visual brand consistency. Using design thinking principles we work with companies to create modern sleek designs that will give your users a delightful experience."
+						textDescription="Creating a design system for your application or website is key for scalibility and brand consistency. Using design thinking principles we work with companies to create modern sleek designs that will give users a delightful experience."
 					></ParagraphText>
 				</div>
 
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="Interactive & Data Visualization Websites"
-						textDescription="Displaying data through your applications UI has become more complex over the years. Digital Anthro utilizes front-end technologies in combination with interactive and data visualization tools to create beautiful web experiences that display clear information to your users."
+						textDescription="Digital Anthro utilizes front-end technologies in combination with interactive and data visualization tools to create beautiful web experiences that display clear information to your users."
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="CMS Integration"
-						textDescription="Digital Anthro consults with companies who would like to integrate their websites with content management systems such as Wordpress, Contentful, Prismic CMS and more."
+						textDescription="Digital Anthro consults with companies looking to integrate their website with a content management systems such as Wordpress, Contentful, Prismic CMS and more."
 						link="https://www.sanity.io/blog/headless-cms-explained"
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="UI/UX Design/Front-End Web Development Consulting & Workshops"
-						textDescription="Digital Anthro works with companies to help solve complex UI/UX design & development architectural situations. Our consultancy covers Full Stack Javascript Development, UI/UX Design, CMS integrations and Interactive/Data Visualization Development"
+						textDescription="Digital Anthro works with companies to help solve complex UI/UX design & development architectural situations. Our consultancy covers Javascript Development, UI/UX Design, CMS integrations and Interactive/Data Visualization Development"
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
