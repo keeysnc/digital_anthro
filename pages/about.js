@@ -7,7 +7,6 @@ import Link from "next/link";
 const about = () => {
 	return (
 		<div className={aboutStyles.about}>
-			{/* <BgCover></BgCover> */}
 			<Head>
 				<title>About</title>
 			</Head>
