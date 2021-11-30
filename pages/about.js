@@ -1,8 +1,6 @@
 import Head from "next/head";
-import BgCover from "../components/BgCover/BgCover";
 import PageTitle from "../components/pageTitle/PageTitle";
 import aboutStyles from "../styles/About.module.css";
-import Link from "next/link";
 
 const about = () => {
 	return (
