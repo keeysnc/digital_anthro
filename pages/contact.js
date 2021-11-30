@@ -14,7 +14,7 @@ const about = () => {
 				textDescription="Send us an email to quote for a project, inquire about a collaboration, or simply say hello."
 			></PageTitle>
 			<p>
-				Contact Us: <a href="mailto:info@digitalanthro.com">info@digitalanthro.com</a>
+				Contact Us: <a href="mailto:nathan@digitalanthro.com">nathan@digitalanthro.com</a>
 			</p>
 		</div>
 	);
