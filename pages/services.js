@@ -14,7 +14,7 @@ const services = () => {
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="Front-End Web Development"
-						textDescription="Digital Anthro simplifies the complexities that come with building and maintaining a performant web interface for your users. We use modern front-end technologies and frameworks to build responsive, interactive and secure front-end solutions."
+						textDescription="Digital Anthro simplifies the complexities that come with building and maintaining a performant web interface for your users. We use modern front-end technologies and frameworks such as React and Vue to build responsive, interactive and secure front-end solutions."
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
