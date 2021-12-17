@@ -5,7 +5,7 @@ const Footer = () => {
 		<footer className={footerStyles.footer}>
 			<div className={footerStyles.footer__container}>
 				<div>
-					<p>Contact Us @ info@digitalanthro.com</p>
+					<p>Contact Us @ nathan@digitalanthro.com</p>
 				</div>
 
 				<div>

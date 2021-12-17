@@ -13,8 +13,8 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - An Independent User Experience Studio</title>
-					<meta name="keywords"></meta>
+					<title>Digital Anthro - An Independent User Experience Design & Development Studio</title>
+					<meta name="keywords" content="Web development, UX Design, UI Design, User Experience, Washington DC, Front-end web development"></meta>
 					<link
 						href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
 						rel="stylesheet"
