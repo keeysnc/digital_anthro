@@ -1,9 +1,11 @@
 .pageTitle {
 	padding-bottom: 50px;
+	text-align: center;
 }
 
 .pageTitle p {
-	width: 60%;
+	width: 50%;
+	margin: auto;
 }
 
 @media (max-width: 992px) {
@@ -13,6 +15,5 @@
 	.pageTitle p {
 		width: 100%;
 		margin: auto;
-		text-align: justify;
 	}
 }
