@@ -37,14 +37,14 @@ const services = () => {
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="Shopify E-Commerce"
-						textDescription="Digital Anthro is a proud Shopify Partner. We work with DTC Shopify businesses designing and building modern storefronts and product microsites."
+						textTitle="Interactive Installations"
+						textDescription="Digital Anthro provides consulting and development of interactive real-time installations, visualizations and audiovisual projects utilizing Touchdesigner."
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="Creative Tech Workshops"
-						textDescription="We occassionally host creative technology workshops that focus on creating digital and real-time interactive experiences."
+						textTitle="Shopify E-Commerce"
+						textDescription="Digital Anthro is a proud Shopify Partner. We work with DTC Shopify businesses designing and building modern storefronts and product microsites."
 					></ParagraphText>
 				</div>
 			</div>
