@@ -14,7 +14,7 @@ const services = () => {
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="Interactive Web Development"
-						textDescription="Digital Anthro specializes in building interactive experiences & websites utilizing full-stack javascript development and modern web practices."
+						textDescription="We build interactive experiences & websites utilizing full-stack javascript development and modern web practices."
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
@@ -37,14 +37,14 @@ const services = () => {
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="CMS Implementation"
-						textDescription="Digital Anthro researches and implements the best headless CMS solution for your immersive website. This way, a content editor or admin can update images, content, products, links, SEO and more using a simple to use user interface."
+						textTitle="Data Visualization Websites"
+						textDescription="We work with clients who need to visualize or create an interactive web experience using data or content."
 					></ParagraphText>
 				</div>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="Interactive Installations"
-						textDescription="Digital Anthro provides consulting and development of web api powered real-time visual installations using Touchdesigner."
+						textTitle="WebGL Development"
+						textDescription="Digital Anthro specializes in 3D web development. We utilize WebGL technologies to create 3D experiences for our clients."
 					></ParagraphText>
 				</div>
 				{/* <div className={serviceStyles.services__grid__item}>
