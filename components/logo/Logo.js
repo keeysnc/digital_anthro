@@ -13,7 +13,7 @@ const Logo = () => {
 
 				<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
 					<title>Logo</title>
-					<g id="Page-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" strokeLinecap="round" strokeLineJoin="round">
+					<g id="Page-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" strokeLinecap="round" strokeLinejoin="round">
 						<g id="Homepage" transform="translate(-212.000000, -54.000000)" stroke="#000000" strokeWidth="5">
 							<g id="Group-12" transform="translate(215.000000, 57.000000)">
 								<g className="stroke5 stroke">

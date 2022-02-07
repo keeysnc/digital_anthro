@@ -1,5 +1,5 @@
 .pageTitle {
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 	text-align: center;
 }
 
@@ -11,6 +11,20 @@
 @media (max-width: 992px) {
 	.pageTitle h1 {
 		font-size: 3em;
+	}
+	.pageTitle p {
+		width: 100%;
+		margin: auto;
+	}
+}
+
+@media (max-width: 768px) {
+	.pageTitle {
+		padding-bottom: 0;
+	}
+
+	.pageTitle h1 {
+		font-size: 2.5em;
 	}
 	.pageTitle p {
 		width: 100%;
