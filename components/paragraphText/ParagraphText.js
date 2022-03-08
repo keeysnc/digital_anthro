@@ -2,7 +2,7 @@ const ParagraphText = ({ textTitle, textDescription, link }) => {
 	return (
 		<>
 			<h2>{textTitle ? textTitle : ""}</h2>
-			<h3>{textDescription}</h3>
+			<p>{textDescription}</p>
 			{link ? (
 				<a style={{ textDecoration: "underline" }} href={link} rel="noreferrer" target="_blank">
 					Learn More
