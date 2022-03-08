@@ -6,7 +6,10 @@ export default function Home() {
 			<div className={indexStyles.home}>
 				<div className={indexStyles.home__content}>
 					<h1>Digital Anthro</h1>
-					<h3>Digital Anthro is an independent creative studio focused on crafting immersive web experiences.</h3>
+					<h3>
+						Digital Anthro is an independent creative studio focused on crafting immersive web experiences for conscious brands, organizations,
+						campaigns & initiatives.
+					</h3>
 				</div>
 				<br />
 				{/* <ParagraphText textDescription="Digital Anthro is a UI/UX Design & Development Studio. We are a niche studio specialized in Experience Design, Front-End Web Development & Shopify App Development."></ParagraphText> */}

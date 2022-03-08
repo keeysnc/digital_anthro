@@ -1,16 +1,10 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-// import logoStyles from "./LogoStyles.module.css";
 
-// wrapper component
 const Logo = () => {
-	// const img = "/logo.svg";
 	return (
 		<>
 			<div>
-				{/* <canvas id="myCanvas" width="200px" height="200px"></canvas> */}
-				{/* <Image alt="me" width="100px" height="100px" src={img} /> */}
-
 				<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
 					<title>Logo</title>
 					<g id="Page-1" stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" strokeLinecap="round" strokeLinejoin="round">

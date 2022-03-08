@@ -1,24 +1,23 @@
 .services__grid {
 	display: flex;
-	width: 100%;
+	width: 80%;
+	margin: auto;
 	flex-wrap: wrap;
 	justify-content: space-between;
 	flex-direction: row;
+	align-content: center;
 }
 
 .services__grid__item {
-	width: 32%;
+	width: 50%;
 	border-radius: 20px;
-	padding: 15px;
+	padding: 30px;
 	text-align: center;
-}
-
-.services__grid {
-	flex-direction: row;
 }
 
 @media (max-width: 992px) {
 	.services__grid {
+		width: 70%;
 		flex-direction: column;
 	}
 
