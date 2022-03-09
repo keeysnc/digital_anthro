@@ -25,7 +25,7 @@ const services = () => {
 				</div> */}
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="Javascript Web Development"
+						textTitle="Web & Mobile Development"
 						textDescription="We develop interactive experiences, websites and apps utilizing full-stack javascript development and modern web practices."
 					></ParagraphText>
 				</div>
