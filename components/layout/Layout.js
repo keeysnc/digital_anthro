@@ -13,10 +13,10 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - An Independent Creative Studio based in Washington DC</title>
+					<title>Digital Anthro - An Independent Frontend Web Development Studio based in Washington DC</title>
 					<meta
 						name="keywords"
-						content="Web development, Web Design, UX Design, UI Design, User Experience, Washington DC, Front-end web development"
+						content="Web development, Web Design, UX Design, UI Design, User Experience, Washington DC, Front-end web development, WebGL"
 					></meta>
 					<link
 						href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"

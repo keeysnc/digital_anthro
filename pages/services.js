@@ -13,34 +13,34 @@ const services = () => {
 			<div className={serviceStyles.services__grid}>
 				<div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="Experience Design"
-						textDescription="We research, conceptualize and design out visual explorations, storyboards and mockups for websites, immersive experiences and applications."
+						textTitle="Visual Design"
+						textDescription="Our design process consists of phases from exploration and planning to hi-fidelity designs and prototypes."
+					></ParagraphText>
+				</div>
+				<div className={serviceStyles.services__grid__item}>
+					<ParagraphText
+						textTitle="Web Development"
+						textDescription="We use Webflow to develop mobile, tablet and desktop responsive websites, landing pages, product pages and microsites."
+					></ParagraphText>
+				</div>
+				<div className={serviceStyles.services__grid__item}>
+					<ParagraphText
+						textTitle="Immersive & Interactive Web Development"
+						textDescription="We specialize in design & development of immersive and interactive websites. This includes data visualization, interactive storytelling, and websites with highly interactive components."
+					></ParagraphText>
+				</div>
+				<div className={serviceStyles.services__grid__item}>
+					<ParagraphText
+						textTitle="Front-End Web Development & Consulting"
+						textDescription="Digital Anthro works with clients to architect UI and front-end data flows on medium to large websites and applications using modern frameworks such as React and Vue.js."
 					></ParagraphText>
 				</div>
 				{/* <div className={serviceStyles.services__grid__item}>
 					<ParagraphText
-						textTitle="Front-End Web Development"
-						textDescription="Digital Anthro specializes in architecting UI and data flow for front-end solutions using the modern frameworks such as React and Vue.js."
-					></ParagraphText>
-				</div> */}
-				<div className={serviceStyles.services__grid__item}>
-					<ParagraphText
-						textTitle="Web & Mobile Development"
-						textDescription="We develop interactive experiences, websites and apps utilizing full-stack javascript development and modern web practices."
-					></ParagraphText>
-				</div>
-				<div className={serviceStyles.services__grid__item}>
-					<ParagraphText
-						textTitle="Shopify E-Commerce"
-						textDescription="Digital Anthro is a proud Shopify Partner. We work with DTC Shopify businesses designing and building modern storefronts and product microsites."
-					></ParagraphText>
-				</div>
-				<div className={serviceStyles.services__grid__item}>
-					<ParagraphText
 						textTitle="WebGL Development"
 						textDescription="We implement highly interactive components for websites such as web animations, visual effects, data viz, 3D product customizers and more."
 					></ParagraphText>
-				</div>
+				</div> */}
 				{/* <div className={serviceStyles.services__grid__item}>
 					<ParagraphText
 						textTitle="UI/UX Strategy & Design"

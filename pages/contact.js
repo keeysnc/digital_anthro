@@ -8,16 +8,15 @@ const about = () => {
 			<Head>
 				<title>Contact</title>
 			</Head>
-			<PageTitle
-				title="Contact"
-				textTitle=""
-				textDescription="Send us an email to quote for a project, inquire about a collaboration, or simply say hello."
-			></PageTitle>
+			<PageTitle title="Contact" textTitle=""></PageTitle>
 			<p style={{ textAlign: "center" }}>
-				Contact Us:{" "}
-				<a href="mailto:nathan@digitalanthro.com" style={{ paddingRight: "0" }}>
-					nathan@digitalanthro.com
-				</a>
+				Send us an{" "}
+				<span>
+					<a href="mailto:nathan@digitalanthro.com" style={{ paddingRight: "0" }}>
+						email
+					</a>
+				</span>{" "}
+				to quote for a project, inquire about a collaboration, or simply say hello.
 			</p>
 		</div>
 	);

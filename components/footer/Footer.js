@@ -5,10 +5,6 @@ const Footer = () => {
 		<footer className={footerStyles.footer}>
 			<div className={footerStyles.footer__container}>
 				<div>
-					<p>Contact Us @ nathan@digitalanthro.com</p>
-				</div>
-
-				<div>
 					<p>Digital Anthro, LLC - Copyright 2021</p>
 				</div>
 			</div>
