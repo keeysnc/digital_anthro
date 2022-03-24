@@ -13,7 +13,7 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - An Independent creative studio based in Washington DC</title>
+					<title>Digital Anthro - An Independent creative studio in Washington DC</title>
 					<meta
 						name="keywords"
 						content="Web development, Web Design, UX Design, UI Design, User Experience, Washington DC, Creative Studio, Front-end web development, WebGL"

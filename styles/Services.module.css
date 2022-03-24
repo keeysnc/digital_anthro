@@ -9,9 +9,8 @@
 }
 
 .services__grid__item {
-	width: 50%;
+	width: 100%;
 	border-radius: 20px;
-	padding: 50px;
 	text-align: center;
 }
 
