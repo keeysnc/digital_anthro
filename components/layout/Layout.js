@@ -8,22 +8,51 @@ import Script from "next/script";
 import styles from "./Layout.module.css";
 
 // wrapper component
-const Layout = ({ children }) => {
+const Layout = ({ children, pageTitle, description }) => {
 	return (
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - An Independent creative studio in Washington DC</title>
+					<title>Digital Anthro - An independent creative studio for wellness, lifestyle and health companies located in Washington DC</title>
+					<meta name="viewport" content="width=device-width, initial-scale=1" />
+					<meta charSet="utf-8" />
 					<meta
 						name="keywords"
-						content="Web development, Web Design, UX Design, UI Design, User Experience, Washington DC, Creative Studio, Front-end web development, WebGL"
+						content="Web Development, Web Design, User Experience Design, Interactive Websites, Branding Agency DC, Design Agency DC, Fit DC, Physical Therapy DC , Wellness DC, Lifestyle DC, Health DC"
 					></meta>
+					{/* OG Tags */}
+					<meta
+						name="description"
+						content="Digital Anthro is a creative studio specialized in immersive web design and development for lifestyle, health & wellness companies."
+					/>
+					{/*}
+					<meta property="og:title" content={pageTitle} key="ogtitle" />
+					<meta property="og:description" content={description} key="ogdesc" /> */}
+					{/* Twitter */}
+					{/* <meta name="twitter:card" content="summary" key="twcard" />
+					<meta name="twitter:creator" content={twitterHandle} key="twhandle" /> */}
+
+					{/* Open Graph */}
+					{/* <meta property="og:url" content={currentURL} key="ogurl" />
+					<meta property="og:image" content={previewImage} key="ogimage" />
+					<meta property="og:site_name" content={siteName} key="ogsitename" />
+					<meta property="og:title" content={pageTitle} key="ogtitle" />
+					<meta property="og:description" content={description} key="ogdesc" /> */}
 					<link
 						href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
 						rel="stylesheet"
 						integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
 						crossOrigin="anonymous"
 					></link>
+					<script
+						dangerouslySetInnerHTML={{
+							__html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MCSCJXT');`,
+						}}
+					></script>
 				</Head>
 				<Script
 					src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"

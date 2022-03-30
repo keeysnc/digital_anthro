@@ -13,9 +13,10 @@ const about = () => {
 					<div style={{ textAlign: "center" }}>
 						<h1>About</h1>
 						<h3>
-							Digital Anthro is a creative studio, interactive development consultancy. The studio was founded in 2018 due to the emergence and
-							maturity of interactive and immersive technologies on the web. The Digital Anthro mission is one of design, art, technology and human
-							behavior. The mission is simply to explore modern methods of web interaction and how they can better the digital human experience.
+							Digital Anthro is a web design & development studio specialized in immersive, human-centered websites & digital experiences for
+							lifestyle, wellness, and health brands and organizations. The studio was founded in 2018 to help forward-thinking health & wellness
+							companies build creative digital experiences for their future & existing customers. The Digital Anthro mission is one of design, art,
+							technology and human behavior. The mission is simply to design and build impactful user experiences for the digital human.
 						</h3>
 						<div className="social-media" style={{ textAlign: "center", paddingTop: "10px" }}>
 							<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/digital-anthro">

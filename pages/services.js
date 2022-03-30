@@ -14,9 +14,10 @@ const services = () => {
 				<div style={{ textAlign: "center" }}>
 					<h1>Services & Technologies</h1>
 					<h3>Web Design & Development</h3>
-					<h3>3D Web Development</h3>
-					<h3>Data Visualizations</h3>
-					<h3>UI / UX / Interaction Design</h3>
+					<h3>WebGL & 3D Web Development</h3>
+					<h3>Interactive Data Visualizations</h3>
+					<h3>Visual Branding</h3>
+					<h3>UI / UX & Interaction Design</h3>
 					<h3>3D Modeling and Animation</h3>
 				</div>
 			</div>
