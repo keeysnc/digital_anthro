@@ -8,7 +8,7 @@ import Script from "next/script";
 import styles from "./Layout.module.css";
 
 // wrapper component
-const Layout = ({ children, pageTitle, description }) => {
+const Layout = ({ children }) => {
 	return (
 		<>
 			<div className={styles.layout__container}>
