@@ -14,13 +14,13 @@ class MyDocument extends Document {
 					<Main />
 					<NextScript />
 					<Main />
-					<noscript
-						dangerouslySetInnerHTML={{
-							__html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXX"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>`,
-						}}
-					></noscript>
 				</body>
+				<noscript
+					dangerouslySetInnerHTML={{
+						__html: `<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2GKB4N"
+							height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>`,
+					}}
+				></noscript>
 			</Html>
 		);
 	}
