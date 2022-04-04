@@ -18,7 +18,7 @@ const services = () => {
 					<h3>Interactive Data Visualizations</h3>
 					<h3>Visual Branding</h3>
 					<h3>UI / UX & Interaction Design</h3>
-					<h3>WebGL Web Animations</h3>
+					<h3>WebGL Web Development</h3>
 				</div>
 			</div>
 		</div>
