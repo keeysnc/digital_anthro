@@ -18,7 +18,7 @@ const Layout = ({ children }) => {
 					<meta charSet="utf-8" />
 					<meta
 						name="keywords"
-						content="Web Development, Web Design, User Experience Design, Interactive Websites, Branding Agency DC, Design Agency DC, Fit DC, Physical Therapy DC , Wellness DC, Lifestyle DC, Health DC"
+						content="Web Development, Web Design, User Experience Design, Interactive Websites, Branding Agency DC, Design Consultancy, Design Agency DC, Fit DC, Physical Therapy DC , Wellness DC, Lifestyle DC, Health DC"
 					></meta>
 					{/* OG Tags */}
 					<meta
