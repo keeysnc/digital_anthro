@@ -21,7 +21,10 @@ const Layout = ({ children }) => {
 						content="Web Development, Web Design, User Experience Design, lifestyle brands, interactive Websites, Branding Agency DC, Design Consultancy, Design Agency DC, Awwwards Agency"
 					></meta>
 					{/* OG Tags */}
-					<meta name="description" content="Digital Anthro is a consultancy specialized in experience design and frontend web development." />
+					<meta
+						name="description"
+						content="Digital Anthro is an experience design & front-end development consultancy specialized in human-centered design and development for digital web experiences."
+					/>
 					{/*}
 					<meta property="og:title" content={pageTitle} key="ogtitle" />
 					<meta property="og:description" content={description} key="ogdesc" /> */}
