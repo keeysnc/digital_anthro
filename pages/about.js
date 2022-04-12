@@ -13,7 +13,7 @@ const about = () => {
 					<div style={{ textAlign: "center" }}>
 						<h1>About</h1>
 						<h3>
-							Digital Anthro is an experience design & front-end development consultancy specialized in human-centered design and development for
+							Digital Anthro is an experience design & interactive development consultancy specialized in human-centered design and development for
 							digital web experiences. The studio was founded in 2018 to help forward-thinking brands build digital web experiences for their future &
 							existing customers. The Digital Anthro mission is one of design, technology and human behavior. The mission is simply to design and
 							build impactful user experiences.

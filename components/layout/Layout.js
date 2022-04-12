@@ -13,17 +13,17 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - An experience design & frontend web development consultancy.</title>
+					<title>Digital Anthro - An experience design & interactive development consultancy.</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
 					<meta
 						name="keywords"
-						content="Web Development, Web Design, User Experience Design, lifestyle brands, interactive Websites, Branding Agency DC, Design Consultancy, Design Agency DC, Awwwards Agency"
+						content="Web Development, Creative Development, Web Design, User Experience Design, lifestyle brands, interactive Websites, Branding Agency DC, Design Consultancy, Design Agency DC, Awwwards"
 					></meta>
 					{/* OG Tags */}
 					<meta
 						name="description"
-						content="Digital Anthro is an experience design & front-end development consultancy specialized in human-centered design and development for digital web experiences."
+						content="Digital Anthro is an experience design & interactive development consultancy specialized in human-centered design and development for digital web experiences."
 					/>
 					{/*}
 					<meta property="og:title" content={pageTitle} key="ogtitle" />
