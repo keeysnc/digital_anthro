@@ -12,12 +12,13 @@ const services = () => {
 					<title>Services</title>
 				</Head>
 				<div style={{ textAlign: "center" }}>
-					<h1>Services & Technologies</h1>
-					<h3>Visual Branding</h3>
-					<h3>Experience Design</h3>
-					<h3>React Development & Consulting</h3>
-					<h3>WebGL Development</h3>
+					<h1>Services & Expertise</h1>
+					<h3>UI/UX & Experience Design</h3>
+					<h3>Full Stack Javascript Development</h3>
+					<h3>Three.js/WebGL Development</h3>
 					<h3>Cloud/Headless CMS Integration</h3>
+					<h3>Third Pary API Integrations</h3>
+					<h3>Node.js API Development</h3>
 				</div>
 			</div>
 		</div>
