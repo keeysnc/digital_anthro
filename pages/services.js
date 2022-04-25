@@ -1,8 +1,5 @@
 import Head from "next/head";
-import PageTitle from "../components/pageTitle/PageTitle";
-import ParagraphText from "../components/paragraphText/ParagraphText";
 import indexStyles from "../styles/Index.module.css";
-import serviceStyles from "../styles/Services.module.css";
 
 const services = () => {
 	return (
