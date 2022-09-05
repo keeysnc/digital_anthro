@@ -8,14 +8,24 @@ const services = () => {
 				<Head>
 					<title>Services</title>
 				</Head>
-				<div style={{ textAlign: "center" }}>
-					<h1>Services & Expertise</h1>
-					<h3>UI/UX & Experience Design</h3>
-					<h3>Full Stack Javascript Development</h3>
-					<h3>Three.js/WebGL Development</h3>
-					<h3>Cloud/Headless CMS Integration</h3>
-					<h3>Third Pary API Integrations</h3>
-					<h3>Node.js API Development</h3>
+				<div style={{ display: "flex", justifyContent: "space-around" }}>
+					<div>
+						<h1>Services:</h1>
+						<h3>Identity Branding</h3>
+						<h3>UI/UX Design</h3>
+						<h3>Web Design (Webflow)</h3>
+						<h3>Shopify eCommerce</h3>
+						<h3>Content Management System Integration</h3>
+						<h3>Frontend Web & Mobile App Development</h3>
+						<h3>React Development & Consulting</h3>
+					</div>
+					<div>
+						<h1>Spaces:</h1>
+						<h3>Lifestyle Brands & E-Commerce</h3>
+						<h3>Health & Wellness Brands & Organizations</h3>
+						<h3>E-learning Brands & Organizations</h3>
+						<h3>Cultural & Art Organizations and Institutions</h3>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -13,17 +13,17 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - An independent ui/ux & web development consultancy.</title>
+					<title>Digital Anthro - An independent creative web design & development studio.</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
 					<meta
 						name="keywords"
-						content="Web Development, Creative Development, Web Application Developments, User Experience Design, lifestyle brands, health brands, interactive websites, design consultancy, design agency DC, awwwards"
+						content="Gaithersburg Maryland Web Development, Maryland Web Design, Gaithersburg Maryland Web Design, Maryland User Experience Design, Maryland frontend developer, Gaithersburg Maryland branding, Gaithersburg Maryland web development, Gaithersburg Maryland Web Developer Healthcare, Gaithersburg Maryland interactive websites, Maryland design consultancy, Gaithersburg Maryland Awwards, Gaithersburg Maryland Wellness Design Agency, Maryland Design Agency Wellness"
 					></meta>
 					{/* OG Tags */}
 					<meta
 						name="description"
-						content="Digital Anthro is an independent ui/ux & web development consultancy specialized in human-centered design and development for web experiences and applications."
+						content="Digital Anthro is an independent design & frontend web development consultancy specialized in human-centered design and development for web experiences and applications."
 					/>
 					{/*}
 					<meta property="og:title" content={pageTitle} key="ogtitle" />

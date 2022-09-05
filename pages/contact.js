@@ -1,5 +1,4 @@
 import Head from "next/head";
-import PageTitle from "../components/pageTitle/PageTitle";
 import aboutStyles from "../styles/About.module.css";
 import indexStyles from "../styles/Index.module.css";
 

@@ -21,6 +21,8 @@
 
 .nav__menu ul {
 	display: flex;
+	align-self: center;
+	margin-bottom: 0;
 }
 
 .nav__menu ul li {

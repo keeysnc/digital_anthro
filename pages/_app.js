@@ -6,9 +6,9 @@ import "../styles/globals.css";
 function MyApp({ Component, pageProps }) {
 	//Component is the page passed into my app
 	// If on home page (component === home)
-
 	return (
 		//wrapping layout component around all pages
+
 		<Layout>
 			<Component {...pageProps} />
 		</Layout>

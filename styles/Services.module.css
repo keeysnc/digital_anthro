@@ -10,7 +10,6 @@
 
 .services__grid__item {
 	width: 100%;
-	border-radius: 20px;
 	text-align: center;
 }
 
@@ -28,7 +27,6 @@
 @media (max-width: 768px) {
 	.services__grid__item {
 		width: 100%;
-		border-radius: 20px;
 		padding: 15px 0px 15px 0px;
 	}
 }

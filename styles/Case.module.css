@@ -1,0 +1,22 @@
+.case__study {
+	padding: 5rem 0rem 5rem 0rem;
+	width: 50%;
+	margin: auto;
+	position: relative;
+}
+
+.case__study p img {
+	width: 100%;
+}
+
+@media (max-width: 992px) {
+	.case__study {
+		width: 80%;
+	}
+}
+
+@media (max-width: 786px) {
+	.case__study {
+		width: 100%;
+	}
+}

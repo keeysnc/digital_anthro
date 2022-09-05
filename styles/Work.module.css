@@ -1,10 +1,57 @@
-.swork__grid {
+.work__grid {
 	display: flex;
+	flex-direction: row;
 	width: 100%;
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
 
 .work__grid__item {
-	width: 32%;
+	width: 48%;
+	list-style: none;
+	position: relative;
+	overflow: hidden;
+}
+
+.work__case__info {
+	background: rgb(46, 46, 46);
+	background: linear-gradient(354deg, rgb(39, 39, 39) 0%, rgba(0, 0, 0, 0) 60%);
+	color: white;
+	padding: 20px 40px;
+	min-height: 100px;
+	width: 100%;
+	position: absolute;
+	z-index: 99;
+	bottom: 0;
+}
+
+.work__case__info a,
+.work__case__info p,
+.work__case__info caption {
+	color: white;
+}
+
+.work__grid__item p,
+.work__grid__item caption {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.work__grid__item caption {
+	font-size: 0.8rem;
+}
+
+.work__caption,
+.work__link {
+	min-width: 600px;
+}
+
+@media (max-width: 992px) {
+	.work__grid__item {
+		width: 100%;
+		margin-bottom: 20px;
+		list-style: none;
+		position: relative;
+		overflow: hidden;
+	}
 }
