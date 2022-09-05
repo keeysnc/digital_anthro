@@ -21,8 +21,8 @@ const about = () => {
 							<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/digital-anthro">
 								LinkedIn
 							</a>
-							<a target="_blank" rel="noreferrer" href="https://www.instagram.com/digitalanthro/" style={{ paddingRight: "0" }}>
-								Instagram
+							<a target="_blank" rel="noreferrer" href="https://medium.com/@natekeeys" style={{ paddingRight: "0" }}>
+								Medium
 							</a>
 						</div>
 					</div>
