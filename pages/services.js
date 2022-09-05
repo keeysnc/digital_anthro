@@ -19,6 +19,9 @@ const services = () => {
 						<h3>Frontend Web & Mobile App Development</h3>
 						<h3>React Development & Consulting</h3>
 					</div>
+					<br />
+					<hr></hr>
+					<br />
 					<div>
 						<h1>Spaces:</h1>
 						<h3>Lifestyle Brands & E-Commerce</h3>

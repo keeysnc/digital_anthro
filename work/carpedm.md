@@ -11,7 +11,7 @@ image: "/carpedm.png"
 
 _Wordpress Development / Web Development / UI/UX Consulting / Stripe Integration_
 
-## [View Project](https://portal.carpedmdating.com)
+### [View Project](https://portal.carpedmdating.com)
 
 **CarpeDM – Seize the Dating!®** is a video-first mobile dating app designed to provide a shortcut to chemistry for relationship-minded professionals seeking meaningful connections by requiring a video chat before enabling texting.
 

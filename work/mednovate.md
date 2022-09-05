@@ -11,7 +11,7 @@ image: "/mednovate.png"
 
 _Web Design / Custom Squarespace Development / UI/UX Design / Visual Design_
 
-## [View Project](https://www.mednovateconnect.com)
+### [View Project](https://www.mednovateconnect.com)
 
 **[Mednovate Connect®](https://www.mednovateconnect.com)** is a medication management provider and pioneer of telehealth in the Washington, DC Metro Area.
 

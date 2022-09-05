@@ -10,7 +10,7 @@ const about = () => {
 					<Head>
 						<title>Contact</title>
 					</Head>
-					<div style={{ textAlign: "center" }}>
+					<div>
 						<h1>Contact</h1>
 						<h3>
 							Send us an{" "}

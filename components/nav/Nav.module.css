@@ -3,6 +3,7 @@
 	flex-direction: row;
 	justify-content: space-between;
 	padding: 2rem 0;
+	align-items: center;
 }
 
 .nav img {
@@ -12,6 +13,11 @@
 
 .nav h4 {
 	margin-bottom: 0;
+}
+
+.nav svg {
+	top: 0;
+	position: relative;
 }
 
 .nav p {
@@ -31,18 +37,18 @@
 }
 
 @media (max-width: 992px) {
-	.nav {
-		flex-direction: column;
-		text-align: center;
-	}
-
 	.nav__menu ul {
 		justify-content: center;
 		padding-left: 0;
 		padding-top: 40px;
+		font-size: 14px;
 	}
 
 	.nav__menu ul li:last-child {
 		padding-right: 0;
+	}
+
+	.nav svg {
+		display: none;
 	}
 }
