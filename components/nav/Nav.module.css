@@ -47,7 +47,9 @@
 	.nav__menu ul li:last-child {
 		padding-right: 0;
 	}
+}
 
+@media (max-width: 786px) {
 	.nav svg {
 		display: none;
 	}
