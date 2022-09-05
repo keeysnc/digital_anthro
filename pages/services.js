@@ -8,7 +8,7 @@ const services = () => {
 				<Head>
 					<title>Services</title>
 				</Head>
-				<div style={{ display: "flex", justifyContent: "space-around" }}>
+				<div className={indexStyles.service__info}>
 					<div>
 						<h1>Services:</h1>
 						<h3>Identity Branding</h3>

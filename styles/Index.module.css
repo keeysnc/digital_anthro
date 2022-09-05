@@ -24,6 +24,12 @@
 	align-items: center;
 }
 
+.service__info {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+}
+
 @media (max-width: 992px) {
 	.home {
 		padding: 2rem 0rem;
@@ -37,5 +43,15 @@
 
 	.home h1 {
 		font-size: 3rem;
+	}
+
+	.service__info {
+		display: flex;
+		justify-content: space-around;
+		flex-direction: column;
+	}
+
+	.service__info div:first-child {
+		padding-bottom: 20px;
 	}
 }
