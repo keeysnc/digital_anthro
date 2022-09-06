@@ -12,19 +12,15 @@ const services = () => {
 					<div>
 						<h1>Services:</h1>
 						<hr></hr>
-						<p>Identity Branding</p>
+						<p>Experience Design</p>
 						<hr></hr>
-						<p>UI/UX Design</p>
-						<hr></hr>
-						<p>Web Design (Webflow)</p>
-						<hr></hr>
-						<p>Shopify eCommerce</p>
+						<p>React Development & Consulting</p>
 						<hr></hr>
 						<p>Content Management System Integration</p>
 						<hr></hr>
-						<p>Frontend Web & Mobile App Development</p>
+						<p>Web Development</p>
 						<hr></hr>
-						<p>React Development & Consulting</p>
+						<p>Data Visualization</p>
 						<hr></hr>
 					</div>
 					<br />

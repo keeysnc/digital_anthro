@@ -23,7 +23,7 @@ const Layout = ({ children }) => {
 					{/* OG Tags */}
 					<meta
 						name="description"
-						content="Digital Anthro is an independent web design & web development consultancy specialized in human-centered design and development for web experiences and applications."
+						content="Digital Anthro is an independent web design & web development studio specialized in human-centered design and development for web experiences and applications."
 					/>
 					{/*}
 					<meta property="og:title" content={pageTitle} key="ogtitle" />
