@@ -12,7 +12,7 @@ const about = () => {
 					</Head>
 					<div>
 						<h1>Contact</h1>
-						<h3>
+						<p>
 							Send us an{" "}
 							<span>
 								<a href="mailto:nathan@digitalanthro.com" style={{ paddingRight: "0" }}>
@@ -20,7 +20,7 @@ const about = () => {
 								</a>
 							</span>{" "}
 							to quote for a project, inquire about a collaboration, or simply say hello.
-						</h3>
+						</p>
 					</div>
 				</div>
 			</div>

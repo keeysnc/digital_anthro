@@ -6,7 +6,7 @@ export default function Home() {
 			<div className={indexStyles.home}>
 				<div className={indexStyles.home__content}>
 					<h1>Digital Anthro</h1>
-					<h3>An independent creative web design & development studio.</h3>
+					<p>An independent creative web design & development studio.</p>
 				</div>
 				<br />
 			</div>

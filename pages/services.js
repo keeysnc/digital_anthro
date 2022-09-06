@@ -11,23 +11,34 @@ const services = () => {
 				<div className={indexStyles.service__info}>
 					<div>
 						<h1>Services:</h1>
-						<h3>Identity Branding</h3>
-						<h3>UI/UX Design</h3>
-						<h3>Web Design (Webflow)</h3>
-						<h3>Shopify eCommerce</h3>
-						<h3>Content Management System Integration</h3>
-						<h3>Frontend Web & Mobile App Development</h3>
-						<h3>React Development & Consulting</h3>
+						<hr></hr>
+						<p>Identity Branding</p>
+						<hr></hr>
+						<p>UI/UX Design</p>
+						<hr></hr>
+						<p>Web Design (Webflow)</p>
+						<hr></hr>
+						<p>Shopify eCommerce</p>
+						<hr></hr>
+						<p>Content Management System Integration</p>
+						<hr></hr>
+						<p>Frontend Web & Mobile App Development</p>
+						<hr></hr>
+						<p>React Development & Consulting</p>
+						<hr></hr>
 					</div>
-					<br />
-					<hr></hr>
 					<br />
 					<div>
 						<h1>Spaces:</h1>
-						<h3>Lifestyle Brands & E-Commerce</h3>
-						<h3>Health & Wellness Brands & Organizations</h3>
-						<h3>E-learning Brands & Organizations</h3>
-						<h3>Cultural & Art Organizations and Institutions</h3>
+						<hr></hr>
+						<p>Lifestyle Brands & E-Commerce</p>
+						<hr></hr>
+						<p>Health & Wellness Brands & Organizations</p>
+						<hr></hr>
+						<p>E-learning Brands & Organizations</p>
+						<hr></hr>
+						<p>Cultural & Art Organizations and Institutions</p>
+						<hr></hr>
 					</div>
 				</div>
 			</div>
