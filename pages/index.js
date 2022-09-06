@@ -20,11 +20,11 @@ export default function Home() {
 						<hr></hr>
 						<p>UI/UX Design</p>
 						<hr></hr>
-						<p>Design Systems ( Data & Interface Design )</p>
+						<p>Design Systems - Data & Interface Design</p>
 						<hr></hr>
 						<p>Frontend Web Development</p>
 						<hr></hr>
-						<p>Data Visualization ( Web-based and Physical Installations )</p>
+						<p>Data Visualization - Web-based and Physical Installations</p>
 						<hr></hr>
 						<p>Headless CMS Integration</p>
 						<hr></hr>
