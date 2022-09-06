@@ -18,9 +18,7 @@ const Menu = () => {
 					<Link href="/work">Work</Link>
 				</li>
 				<li>
-					<Link target="_blank" href="https://medium.com/@natekeeys">
-						Publications
-					</Link>
+					<Link href="https://medium.com/@natekeeys">Publications</Link>
 				</li>
 				{/* <li>
 					<Link href="/events">Events</Link>

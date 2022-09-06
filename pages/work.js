@@ -1,5 +1,4 @@
 import { getSortedPostsData } from "../utils/dataParser";
-import Image from "next/image";
 import workStyles from "../styles/Work.module.css";
 import indexStyles from "../styles/Index.module.css";
 
