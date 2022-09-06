@@ -6,8 +6,8 @@ const work = ({ allPostsData }) => {
 	console.log(allPostsData);
 
 	const cards = allPostsData.map((post) => (
-		<div>
-			<li className={workStyles.work__grid__item} key={post.id}>
+		<div key={post.id}>
+			<li className={workStyles.work__grid__item}>
 				<a href={post.study}>
 					<div className={workStyles.work__case__info}>
 						<p>{post.client}</p>
