@@ -1,20 +1,20 @@
 .work__grid {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	width: 100%;
-	flex-wrap: wrap;
-	justify-content: space-between;
+	/* flex-wrap: wrap;
+	justify-content: space-between; */
 	padding-left: 0;
 }
 
 .work__grid__item {
-	width: 48%;
+	width: 100%;
 	list-style: none;
 	position: relative;
 	overflow: hidden;
 }
 
-.work__case__info {
+/* .work__case__info {
 	background: rgb(0, 0, 0);
 	background: linear-gradient(354deg, rgb(39, 39, 39) 0%, rgba(0, 0, 0, 0) 65%);
 	color: white;
@@ -24,12 +24,13 @@
 	position: absolute;
 	z-index: 99;
 	bottom: 0;
-}
+} */
 
 .work__case__info a,
 .work__case__info p,
-.work__case__info caption {
-	color: white;
+.work__case__info caption,
+.work__case__info {
+	color: #383838;
 }
 
 .work__grid__item p,

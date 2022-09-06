@@ -53,4 +53,8 @@
 	.nav svg {
 		display: none;
 	}
+
+	.nav {
+		justify-content: start;
+	}
 }

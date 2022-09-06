@@ -11,7 +11,7 @@ const about = () => {
 						<title>Contact</title>
 					</Head>
 					<div>
-						<h1>Contact</h1>
+						<h2>Contact</h2>
 						<p>
 							Send us an{" "}
 							<span>

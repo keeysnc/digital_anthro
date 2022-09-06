@@ -1,26 +1,28 @@
 import { getSortedPostsData } from "../utils/dataParser";
 import Image from "next/image";
 import workStyles from "../styles/Work.module.css";
+import indexStyles from "../styles/Index.module.css";
 
 const work = ({ allPostsData }) => {
 	console.log(allPostsData);
 
 	const cards = allPostsData.map((post) => (
-		<li className={workStyles.work__grid__item} key={post.id}>
-			<a href={post.study}>
-				<Image layout="responsive" width={300} height={300} src={post.image}></Image>
-			</a>
-			<div className={workStyles.work__case__info}>
-				<h3>{post.client}</h3>
-				<a href={post.link} rel="noreferrer" target="_blank">
-					<caption className={workStyles.work__link}>View Website</caption>
+		<div>
+			<li className={workStyles.work__grid__item} key={post.id}>
+				<a href={post.study}>
+					<div className={workStyles.work__case__info}>
+						<p>{post.client}</p>
+					</div>
 				</a>
-			</div>
-		</li>
+			</li>
+			<hr />
+		</div>
 	));
 
 	return (
-		<div>
+		<div className={indexStyles.home}>
+			<h2>Work</h2>
+			<hr />
 			<ul className={workStyles.work__grid}>{cards}</ul>
 		</div>
 	);
