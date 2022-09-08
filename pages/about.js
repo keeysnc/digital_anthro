@@ -21,9 +21,9 @@ const about = () => {
 								<p>
 									Nathan Keeys is a creative technologist consultant and the founder of Digital Anthro with 8+ years experience working with a variety
 									of brands and companies. He has designed and developed websites and applications for notable brands and organizations such as
-									Accenture, Children's Hospital, Giant, and PenFed Credit Union. In 2018 Nathan started Digital Anthro as an independent consultancy
-									helping businesses design & build interactive websites and experiences. As a consultant on user experience and interface design,
-									Nathan works primarily with frontend, and javascript technologies ( such as
+									Accenture, Children&apos;s Hospital, Giant, and PenFed Credit Union. In 2018 Nathan started Digital Anthro as an independent
+									consultancy helping businesses design & build interactive websites and experiences. As a consultant on user experience and interface
+									design, Nathan works primarily with frontend, and javascript technologies ( such as
 									<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 										React
 									</a>
