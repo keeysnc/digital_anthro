@@ -23,18 +23,18 @@ const about = () => {
 									of brands and companies. He has designed and developed websites and applications for notable brands and organizations such as
 									Accenture, Children's Hospital, Giant, and PenFed Credit Union. In 2018 Nathan started Digital Anthro as an independent consultancy
 									helping businesses design & build interactive websites and experiences. As a consultant on user experience and interface design,
-									Nathan works primarily with frontend, and javascript technologies ( such as{" "}
+									Nathan works primarily with frontend, and javascript technologies ( such as
 									<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 										React
-									</a>{" "}
-									and{" "}
+									</a>
+									and
 									<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 										Vue
 									</a>
-									), design systems and{" "}
+									), design systems and
 									<a href="https://derivative.ca/" target="_blank" rel="noreferrer">
 										Touchdesigner
-									</a>{" "}
+									</a>
 									for physical immersive projects. When he is not consulting, Nathan enjoys playing guitar, staying active and producing music and
 									visual audio art under the moniker 80% Cacao.
 								</p>
