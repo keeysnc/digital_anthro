@@ -1,5 +1,5 @@
 ---
-client: CarpeDM Dating Member Portal
+client: CarpeDM Dating - Website & Member Portal
 title: UX Consulting, App Development, Stripe Integration
 date: "2020-01-01"
 study: "/work/carpedm"

@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Events from "../components/events/Events";
-import PageTitle from "../components/pageTitle/PageTitle";
+import indexStyles from "../styles/Index.module.css";
 
 const events = () => {
 	return (
@@ -8,8 +8,10 @@ const events = () => {
 			<Head>
 				<title>Events</title>
 			</Head>
-			<PageTitle title="Events & Talks"></PageTitle>
-			<Events></Events>
+			<div className={indexStyles.home}>
+				<h2>Events & Talks</h2>
+				<Events></Events>
+			</div>
 		</div>
 	);
 };

@@ -8,21 +8,21 @@ const Menu = () => {
 				<li>
 					<Link href="/">Home</Link>
 				</li>
-				{/* <li>
+				<li>
 					<Link href="/about">About</Link>
-				</li> */}
-				{/* <li>
-					<Link href="/services">Services</Link>
-				</li> */}
+				</li>
 				<li>
 					<Link href="/work">Work</Link>
 				</li>
 				<li>
 					<Link href="https://medium.com/@natekeeys">Publications</Link>
 				</li>
-				{/* <li>
+				<li>
 					<Link href="/events">Events</Link>
-				</li> */}
+				</li>
+				<li>
+					<Link href="/exhibits">Exhibits</Link>
+				</li>
 				<li>
 					<Link href="/contact">Contact</Link>
 				</li>

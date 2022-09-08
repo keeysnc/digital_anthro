@@ -1,5 +1,5 @@
 ---
-client: Mednovate Connect Website
+client: Mednovate Connect - UI/UX Design & Website
 title: Branding, Visual Design, Web Development, Squarespace Custom Development
 date: "2020-01-01"
 study: "/work/mednovate"

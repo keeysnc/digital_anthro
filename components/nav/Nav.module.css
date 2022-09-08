@@ -28,6 +28,8 @@
 .nav__menu ul {
 	display: flex;
 	align-self: center;
+
+	flex-wrap: wrap;
 	margin-bottom: 0;
 }
 
@@ -38,7 +40,7 @@
 
 @media (max-width: 992px) {
 	.nav__menu ul {
-		justify-content: center;
+		justify-content: start;
 		padding-left: 0;
 		padding-top: 40px;
 		font-size: 14px;
