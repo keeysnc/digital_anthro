@@ -20,13 +20,13 @@ export default function Home() {
 						<hr></hr>
 						<p>Design Systems - Interface Design</p>
 						<hr></hr>
-						<p>Frontend Web Development</p>
-						<hr></hr>
 						<p>React Development & Consulting</p>
 						<hr></hr>
-						<p>Fullstack Javascript Development & Consulting</p>
+						<p>Next.js Development</p>
 						<hr></hr>
-						<p>Headless CMS Integration</p>
+						<p>Node.js API Development</p>
+						<hr></hr>
+						<p>Headless CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
 						<hr></hr>
 					</div>
 					<br />

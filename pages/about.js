@@ -22,21 +22,11 @@ const about = () => {
 									Nathan Keeys is a creative technologist consultant and the founder of Digital Anthro with 8+ years experience working with a variety
 									of brands and companies. He has designed and developed websites and applications for notable brands and organizations such as
 									Accenture, Children&apos;s Hospital, Giant, and PenFed Credit Union. In 2018 Nathan started Digital Anthro as an independent
-									consultancy helping businesses design & build interactive websites and experiences. As a consultant on user experience and interface
-									design, Nathan works primarily with frontend, and javascript technologies ( such as
-									<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-										React
-									</a>
-									and
-									<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-										Vue
-									</a>
-									), design systems and
-									<a href="https://derivative.ca/" target="_blank" rel="noreferrer">
-										Touchdesigner
-									</a>
-									for physical immersive projects. When he is not consulting, Nathan enjoys playing guitar, staying active and producing music and
-									visual audio art under the moniker 80% Cacao.
+									consultancy helping businesses design & build interactive websites and experiences. <br />
+									<br />
+									As a consultant, Nathan specializes in <b>React-based Frontend Development</b> and <b>Node.js API Development</b>, building design
+									systems and <b>Touchdesigner</b> for teaching creative code & producing audio visual work. When he is not consulting, Nathan enjoys
+									playing guitar, staying active and producing music and visual audio art under the moniker 80% Cacao.
 								</p>
 								<div className="social-media" style={{ paddingTop: "10px" }}>
 									<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/digital-anthro" style={{ paddingRight: "10px" }}>
