@@ -16,6 +16,8 @@ export default function Home() {
 					<div>
 						<h2>Services:</h2>
 						<hr></hr>
+						<p>Visual Design</p>
+						<hr></hr>
 						<p>UI/UX Design & Consulting</p>
 						<hr></hr>
 						<p>Design Systems - Interface Design</p>
