@@ -22,24 +22,19 @@ export default function Home() {
 						<hr></hr>
 						<p>React Development & Consulting</p>
 						<hr></hr>
-						<p>Next.js Development</p>
+						<p>Node.js API Development & Consulting</p>
 						<hr></hr>
-						<p>Node.js API Development</p>
-						<hr></hr>
-						<p>Headless CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
-						<hr></hr>
+						<p>CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
 					</div>
 					<br />
 					<div>
 						<h2>Spaces:</h2>
 						<hr></hr>
-						<p>Lifestyle Brands & E-Commerce</p>
+						<p>Fitness & Lifestyle Brands - eCommerce</p>
 						<hr></hr>
 						<p>Health & Wellness Brands & Organizations</p>
 						<hr></hr>
-						<p>E-learning Brands & Organizations</p>
-						<hr></hr>
-						<p>Cultural & Art Organizations and Institutions</p>
+						<p>Healthcare Institutions</p>
 						<hr></hr>
 					</div>
 				</div>
