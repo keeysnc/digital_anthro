@@ -22,8 +22,8 @@ const about = () => {
 									Nathan Keeys is a creative technologist consultant and the founder of Digital Anthro with 8+ years experience working with a variety
 									of brands and companies. He has designed and developed websites and applications for notable brands and organizations such as
 									Accenture, National Children&apos;s Hospital, Mednovate Connect, Clinical Pharmacy Associates and Centers for Medicare & Medicaid
-									Services. In 2018 Nathan started Digital Anthro as an independent consultancy helping businesses design & build interactive websites
-									and experiences. <br />
+									Services. In 2018, Nathan started Digital Anthro as an independent consultancy helping businesses plan, design & develop web
+									applications with a focus on user experience. <br />
 									<br />
 									As a consultant, Nathan specializes in designing and building websites and microservices with <b>React</b> and <b>Node.js</b>. When
 									he is not consulting, Nathan enjoys playing guitar, staying active and producing music and visual audio art under the moniker 80%
