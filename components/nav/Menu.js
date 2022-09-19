@@ -15,7 +15,7 @@ const Menu = () => {
 					<Link href="/work">Work</Link>
 				</li>
 				<li>
-					<Link href="https://medium.com/@natekeeys">Publications</Link>
+					<Link href="https://digital-anthro.medium.com/">Publications</Link>
 				</li>
 				<li>
 					<Link href="/events">Events</Link>
