@@ -25,8 +25,8 @@ const about = () => {
 									Services. In 2018, Nathan started Digital Anthro as an independent consultancy helping businesses plan, design & develop web
 									applications with a focus on user experience. <br />
 									<br />
-									As a consultant, Nathan specializes in designing and building websites and microservices with <b>React</b> and <b>Node.js</b>. When
-									he is not consulting, Nathan enjoys playing guitar, staying active and producing music and visual audio art under the moniker 80%
+									As a consultant, Nathan specializes in designing design systems, building websites and microservices with <b>React</b> and{" "}
+									<b>Node.js</b>. When he is not consulting, Nathan enjoys playing guitar, staying active and producing music under the moniker 80%
 									Cacao.
 								</p>
 								<div className="social-media" style={{ paddingTop: "10px" }}>
