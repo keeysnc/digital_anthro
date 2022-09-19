@@ -27,11 +27,13 @@ export default function Home() {
 						<hr></hr>
 						<p>Lifestyle Brands - eCommerce</p>
 						<hr></hr>
-						<p>Digital Healthcare Products & Services</p>
+						<p>Fitness Brands - eCommerce</p>
 						<hr></hr>
-						<p>Health & Wellness Brands & Organizations</p>
+						<p>Digital Health Products & Services</p>
 						<hr></hr>
-						<p>Healthcare Institutions</p>
+						<p>Health & Wellness Businesses</p>
+						<hr></hr>
+						<p>Healthcare Organizations & Institutions</p>
 						<hr></hr>
 						<p>Medical Research Institutions</p>
 						<hr></hr>
