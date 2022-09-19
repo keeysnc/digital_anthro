@@ -19,15 +19,15 @@ const about = () => {
 							</div>
 							<div className={aboutStyles.about__content}>
 								<p>
-									Nathan Keeys is a full stack web developer, designer and the founder of Digital Anthro with 8+ years experience working with a
-									variety of brands and companies. He has designed and developed websites and applications for notable brands and organizations such
-									as Accenture, National Children&apos;s Hospital, Mednovate Connect, Clinical Pharmacy Associates and Centers for Medicare & Medicaid
-									Services. In 2018, Nathan started Digital Anthro as an independent consultancy helping businesses plan, design & develop web
-									applications with a focus on user experience. <br />
+									Nathan Keeys is a creative technologist and the founder of Digital Anthro with 8+ years experience working with a variety of brands
+									and companies. He has designed and developed websites and applications for notable brands and organizations such as Accenture,
+									National Children&apos;s Hospital, Mednovate Connect, Clinical Pharmacy Associates and Centers for Medicare & Medicaid Services. In
+									2018, Nathan started Digital Anthro as an independent consultancy helping businesses plan, design & develop web applications with a
+									focus on user experience. <br />
 									<br />
-									As a consultant, Nathan specializes in designing design systems, building websites and microservices with <b>React</b> and{" "}
-									<b>Node.js</b>. When he is not consulting, Nathan enjoys playing guitar, staying active and producing music under the moniker 80%
-									Cacao.
+									As a consultant, Nathan specializes in designing design systems, building websites and applications with <b>React</b> and{" "}
+									<b>Node.js</b> and other javascript technologies. When he is not consulting, Nathan enjoys playing guitar, staying active and
+									learning new skills.
 								</p>
 								<div className="social-media" style={{ paddingTop: "10px" }}>
 									<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/digital-anthro" style={{ paddingRight: "10px" }}>
