@@ -10,7 +10,7 @@ const services = () => {
 				</Head>
 				<div className={indexStyles.service__info}>
 					<div>
-						<h2>Exhibits:</h2>
+						<h2>Projects:</h2>
 						<hr></hr>
 						<p>
 							<a href="https://noisegen.io/">noisegen.io - Interactive Perlin Noise Art Generator</a>

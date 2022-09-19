@@ -21,7 +21,7 @@ const Menu = () => {
 					<Link href="/events">Events</Link>
 				</li>
 				<li>
-					<Link href="/exhibits">Exhibits</Link>
+					<Link href="/exhibits">Projects</Link>
 				</li>
 				<li>
 					<Link href="/contact">Contact</Link>
