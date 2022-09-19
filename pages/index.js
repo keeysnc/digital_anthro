@@ -6,10 +6,7 @@ export default function Home() {
 			<div className={indexStyles.home}>
 				<div className={indexStyles.home__content}>
 					<h1>Digital Anthro</h1>
-					<p>
-						Digital Anthro, LLC is an independent full-stack web development consultant specialized in human-centered design and development for
-						websites & applications.
-					</p>
+					<p>Full-stack web development consultant specialized in human-centered design and development for websites & applications.</p>
 					<br />
 					<div>
 						<h2>Services:</h2>

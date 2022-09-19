@@ -21,7 +21,10 @@ const Menu = () => {
 					<Link href="/events">Events</Link>
 				</li>
 				<li>
-					<Link href="/exhibits">Projects</Link>
+					<Link href="/experimental">Experimental</Link>
+				</li>
+				<li>
+					<Link href="https://www.80percentmusic.com/">Music</Link>
 				</li>
 				<li>
 					<Link href="/contact">Contact</Link>
