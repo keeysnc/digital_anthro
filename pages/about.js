@@ -19,9 +19,9 @@ const about = () => {
 							</div>
 							<div className={aboutStyles.about__content}>
 								<p>
-									Nathan Keeys is a creative technologist consultant and the founder of Digital Anthro with 8+ years experience working with a variety
-									of brands and companies. He has designed and developed websites and applications for notable brands and organizations such as
-									Accenture, National Children&apos;s Hospital, Mednovate Connect, Clinical Pharmacy Associates and Centers for Medicare & Medicaid
+									Nathan Keeys is a full stack web developer, designer and the founder of Digital Anthro with 8+ years experience working with a
+									variety of brands and companies. He has designed and developed websites and applications for notable brands and organizations such
+									as Accenture, National Children&apos;s Hospital, Mednovate Connect, Clinical Pharmacy Associates and Centers for Medicare & Medicaid
 									Services. In 2018, Nathan started Digital Anthro as an independent consultancy helping businesses plan, design & develop web
 									applications with a focus on user experience. <br />
 									<br />
