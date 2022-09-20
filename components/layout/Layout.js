@@ -13,12 +13,12 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - An independent creative web design & development studio.</title>
+					<title>Digital Anthro - Fullstack Web Development Consultant</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
 					<meta
 						name="keywords"
-						content="Gaithersburg Maryland Web Development, Maryland Web Design, Gaithersburg Maryland Web Design, Maryland User Experience Design, Maryland frontend developer, Gaithersburg Maryland branding, Gaithersburg Maryland web development, Gaithersburg Maryland Web Developer Healthcare, Gaithersburg Maryland interactive websites, Maryland design consultancy, Gaithersburg Maryland Awwards, Gaithersburg Maryland Wellness Design Agency, Maryland Design Agency Wellness"
+						content="Web Development Consultant DC, UI/UX Design Consultant DC, Gaithersburg Web Developer, Gaithersburg Web Development Consultant"
 					></meta>
 					{/* OG Tags */}
 					<meta
