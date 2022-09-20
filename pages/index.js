@@ -8,6 +8,7 @@ export default function Home() {
 					<h1>Digital Anthro</h1>
 					<h2>Full-stack web development consultant specialized in human-centered design and development for websites & applications.</h2>
 					<br />
+					<br />
 					<div>
 						<h2>Services:</h2>
 						<hr></hr>
