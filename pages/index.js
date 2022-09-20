@@ -6,7 +6,7 @@ export default function Home() {
 			<div className={indexStyles.home}>
 				<div className={indexStyles.home__content}>
 					<h1>Digital Anthro</h1>
-					<p>Full-stack web development consultant specialized in human-centered design and development for websites & applications.</p>
+					<h2>Full-stack web development consultant specialized in human-centered design and development for websites & applications.</h2>
 					<br />
 					<div>
 						<h2>Services:</h2>
