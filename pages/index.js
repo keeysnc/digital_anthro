@@ -6,7 +6,7 @@ export default function Home() {
 			<div className={indexStyles.home}>
 				<div className={indexStyles.home__content}>
 					<h1>Digital Anthro</h1>
-					<h2>Full-stack web development consultant specialized in human-centered design and development for websites & applications.</h2>
+					<h2>Fullstack web development consultant specialized in human-centered design and development for websites & applications.</h2>
 					<br />
 					<br />
 					<div>
@@ -21,6 +21,8 @@ export default function Home() {
 						<p>Backend API Development</p>
 						<hr></hr>
 						<p>CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
+						<hr></hr>
+						<p>Web-based & Physical Space Data Visualization</p>
 					</div>
 					<br />
 					<div>
