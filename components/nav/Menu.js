@@ -15,13 +15,20 @@ const Menu = () => {
 					<Link href="/work">Work</Link>
 				</li>
 				<li>
-					<Link href="https://digital-anthro.medium.com/">Publications</Link>
+					<a target="_blank" rel="noreferrer" href="https://digital-anthro.medium.com/">
+						Publications
+					</a>
 				</li>
 				<li>
 					<Link href="/events">Events</Link>
 				</li>
 				<li>
-					<Link href="/projects">Projects</Link>
+					<a target="_blank" rel="noreferrer" href="https://www.80percentmusic.com/">
+						80% Cacao Music
+					</a>
+				</li>
+				<li>
+					<Link href="/awards">Awards</Link>
 				</li>
 				<li>
 					<Link href="/contact">Contact</Link>

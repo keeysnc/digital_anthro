@@ -6,7 +6,10 @@ export default function Home() {
 			<div className={indexStyles.home}>
 				<div className={indexStyles.home__content}>
 					<h1>Digital Anthro</h1>
-					<h2>Fullstack web development consultant specialized in human-centered design and development for websites & applications.</h2>
+					<h2>
+						Fullstack web development, designer & multidisciplinary artist specialized in human-centered design and development for websites &
+						applications.
+					</h2>
 					<br />
 					<br />
 					<div>
@@ -25,7 +28,7 @@ export default function Home() {
 						<p>Web-based & Physical Space Data Visualization</p>
 					</div>
 					<br />
-					<div>
+					{/* <div>
 						<h2>Spaces:</h2>
 						<hr></hr>
 						<p>Lifestyle Brands - eCommerce</p>
@@ -40,7 +43,7 @@ export default function Home() {
 						<hr></hr>
 						<p>Medical Research Institutions</p>
 						<hr></hr>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</div>
