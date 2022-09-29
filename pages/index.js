@@ -5,7 +5,7 @@ export default function Home() {
 		<div>
 			<div className={indexStyles.home}>
 				<div className={indexStyles.home__content}>
-					{/* <h1>Digital Anthro</h1> */}
+					{/* Header */}
 					<h2>Fullstack web developer and designer specialized in human-centered design and development for websites & applications.</h2>
 					<br />
 					<br />
