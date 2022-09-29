@@ -23,7 +23,8 @@ const about = () => {
 									brands and companies. He has designed and developed websites and applications for notable brands and organizations such as
 									Accenture, National Children&apos;s Hospital, FBI, Mednovate Connect, Clinical Pharmacy Associates and Centers for Medicare &
 									Medicaid Services. In 2018, Nathan started Digital Anthro as an independent consultancy helping businesses plan, design & develop
-									web applications with a focus on user experience. <br />
+									web applications with a focus on user experience.
+									<br />
 									<br />
 									As a consultant, he specializes in designing design systems, building websites and applications with <b>React</b> and <b>Node.js</b>{" "}
 									and other javascript technologies. When he isn't consulting, Nathan enjoys traveling, staying active and learning new things.
