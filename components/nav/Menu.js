@@ -24,7 +24,7 @@ const Menu = () => {
 				</li>
 				<li>
 					<a target="_blank" rel="noreferrer" href="https://www.80percentmusic.com/">
-						80% Cacao Music
+						Music
 					</a>
 				</li>
 				<li>
