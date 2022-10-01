@@ -1,5 +1,5 @@
 import Link from "next/link";
-import mobileMenuStyles from "../mobileMenu/mobileMenu.module.css";
+import mobileMenuStyles from "../mobileMenu/MobileMenu.module.css";
 
 const MobileMenu = () => {
 	return (
