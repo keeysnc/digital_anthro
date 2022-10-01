@@ -7,7 +7,7 @@ link: "https://carpedmdating.com"
 image: "/carpedm.png"
 ---
 
-## CarpeDM Dating Member Portal
+### CarpeDM Dating Payment Portal & Website
 
 _Wordpress Development / Web Development / UI/UX Consulting / Stripe Integration_
 
@@ -16,3 +16,4 @@ _Wordpress Development / Web Development / UI/UX Consulting / Stripe Integration
 **CarpeDM – Seize the Dating!®** is a video-first mobile dating app designed to provide a shortcut to chemistry for relationship-minded professionals seeking meaningful connections by requiring a video chat before enabling texting.
 
 Digital Anthro was approached by branding and design agency, **[Talooka Studio](https://www.talookastudio.com/)** to consult and build out the CarpeDM Dating website and Member Portal web application.
+{}

@@ -7,7 +7,7 @@ link: "https://www.mednovateconnect.com"
 image: "/mednovate.png"
 ---
 
-## Mednovate Connect
+### Mednovate Connect
 
 _Web Design / Custom Squarespace Development / UI/UX Design / Visual Design_
 
