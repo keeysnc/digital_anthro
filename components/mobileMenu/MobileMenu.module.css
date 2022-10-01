@@ -1,0 +1,15 @@
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	opacity: 0.98;
+}
+
+.container ul {
+	list-style: none;
+}
+
+.container ul li {
+	padding-bottom: 20px;
+}

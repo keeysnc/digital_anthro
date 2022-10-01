@@ -33,6 +33,10 @@
 		width: 100%;
 	}
 
+	.home h2 {
+		font-size: 1.7rem;
+	}
+
 	.home__content {
 		margin-bottom: 20px;
 		width: 100%;

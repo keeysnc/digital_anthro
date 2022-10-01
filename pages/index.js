@@ -2,28 +2,29 @@ import indexStyles from "../styles/Index.module.css";
 
 export default function Home() {
 	return (
-		<div>
-			<div className={indexStyles.home}>
-				<div className={indexStyles.home__content}>
-					{/* Header */}
-					<h2>Fullstack web developer and designer specialized in human-centered design and development for websites & applications.</h2>
-					<br />
-					<br />
-					<div>
-						<h2>Services:</h2>
-						<hr></hr>
-						<p>UI/UX Design & Consulting</p>
-						<hr></hr>
-						<p>Accessibility Design</p>
-						<hr></hr>
-						<p>Frontend & UI Development</p>
-						<hr></hr>
-						<p>Backend API Development</p>
-						<hr></hr>
-						<p>CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
-					</div>
-					<br />
-					{/* <div>
+		<>
+			<div>
+				<div className={indexStyles.home}>
+					<div className={indexStyles.home__content}>
+						{/* Header */}
+						<h2>Creative technology consultancy specialized in human-centered design and fullstack web development for websites & applications.</h2>
+						<br />
+						<br />
+						<div>
+							<h2>Services:</h2>
+							<hr></hr>
+							<p>UI/UX Design & Consulting</p>
+							<hr></hr>
+							<p>Accessibility Design</p>
+							<hr></hr>
+							<p>Frontend & UI Development</p>
+							<hr></hr>
+							<p>Backend API Development</p>
+							<hr></hr>
+							<p>CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
+						</div>
+						<br />
+						{/* <div>
 						<h2>Spaces:</h2>
 						<hr></hr>
 						<p>Lifestyle Brands - eCommerce</p>
@@ -39,8 +40,9 @@ export default function Home() {
 						<p>Medical Research Institutions</p>
 						<hr></hr>
 					</div> */}
+					</div>
 				</div>
 			</div>
-		</div>
+		</>
 	);
 }

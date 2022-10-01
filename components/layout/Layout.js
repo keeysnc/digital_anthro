@@ -2,8 +2,7 @@ import Head from "next/head";
 import Footer from "../footer/Footer";
 import Nav from "../nav/Nav";
 import Script from "next/script";
-// import Pagination from "../pagination/Pagination";
-// import ScrollArrow from "../scrollArrow/ScrollArrow";
+import MobileMenu from "../../components/mobileMenu/MobileMenu";
 
 import styles from "./Layout.module.css";
 
@@ -11,6 +10,9 @@ import styles from "./Layout.module.css";
 const Layout = ({ children }) => {
 	return (
 		<>
+			{/* <div className="bg active">
+				<MobileMenu></MobileMenu>
+			</div> */}
 			<div className={styles.layout__container}>
 				<Head>
 					<title>Digital Anthro - Fullstack Web Development Consultant</title>
@@ -60,6 +62,7 @@ const Layout = ({ children }) => {
 					crossOrigin="anonymous"
 				></Script>
 				<Nav></Nav>
+
 				{/* <Pagination></Pagination> */}
 				<div>
 					<main className={styles.main}>{children}</main>
