@@ -19,16 +19,16 @@ const Menu = () => {
 						Publications
 					</a>
 				</li>
-				<li>
+				{/* <li>
 					<Link href="/events">Events</Link>
-				</li>
-				<li>
+				</li> */}
+				{/* <li>
 					<a target="_blank" rel="noreferrer" href="https://www.80percentmusic.com/">
 						Music
 					</a>
-				</li>
+				</li> */}
 				<li>
-					<Link href="/awards">Awards</Link>
+					<Link href="/projects">Projects</Link>
 				</li>
 				<li>
 					<Link href="/contact">Contact</Link>

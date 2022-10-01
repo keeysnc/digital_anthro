@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
 					<meta charSet="utf-8" />
 					<meta
 						name="keywords"
-						content="Web Development Consultant DC, UI/UX Design Consultant DC, Gaithersburg Web Developer, Gaithersburg Web Development Consultant"
+						content="Creative Technologist DC, UI/UX Design Consultant DC, Fullstack Web Developer DC, Gaithersburg Web Development Consultant"
 					></meta>
 					{/* OG Tags */}
 					<meta

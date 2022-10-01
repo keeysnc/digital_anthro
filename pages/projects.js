@@ -13,6 +13,12 @@ const services = () => {
 						<h2>Projects:</h2>
 						<hr></hr>
 						<p>
+							<a target="_blank" rel="noreferrer" href="https://80percentmusic.com">
+								80% Cacao Music - Music Production & Songwriting
+							</a>
+						</p>
+						<hr></hr>
+						<p>
 							<a target="_blank" rel="noreferrer" href="https://noisegen.io/">
 								noisegen.io - Interactive Perlin Noise Art Generator
 							</a>
