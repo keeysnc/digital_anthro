@@ -7,7 +7,7 @@ export default function Home() {
 				<div className={indexStyles.home}>
 					<div className={indexStyles.home__content}>
 						{/* Header */}
-						<h2>Creative technology consultancy specialized in human-centered design and fullstack web development for websites & applications.</h2>
+						<h2>Creative technologist consultant specialized in human-centered design and fullstack web development for websites & applications.</h2>
 						<br />
 						<br />
 						<div>

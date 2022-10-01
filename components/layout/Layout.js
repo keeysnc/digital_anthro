@@ -10,12 +10,9 @@ import styles from "./Layout.module.css";
 const Layout = ({ children }) => {
 	return (
 		<>
-			{/* <div className="bg active">
-				<MobileMenu></MobileMenu>
-			</div> */}
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - Fullstack Web Development Consultant</title>
+					<title>Digital Anthro - Creative Technologist</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
 					<meta
