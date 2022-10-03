@@ -10,7 +10,7 @@ const work = ({ allPostsData }) => {
 			<li className={workStyles.work__grid__item}>
 				<a href={post.study}>
 					<div className={workStyles.work__case__info}>
-						<p>{post.client}</p>
+						<h2>{post.client}</h2>
 					</div>
 				</a>
 			</li>
@@ -20,7 +20,6 @@ const work = ({ allPostsData }) => {
 
 	return (
 		<div className={indexStyles.home}>
-			<h2>Work</h2>
 			<hr />
 			<ul className={workStyles.work__grid}>{cards}</ul>
 		</div>

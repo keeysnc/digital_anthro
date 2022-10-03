@@ -10,7 +10,7 @@ const services = () => {
 				</Head>
 				<div className={indexStyles.service__info}>
 					<div>
-						<h2>Projects:</h2>
+						<h2>Projects</h2>
 						<hr></hr>
 						<p>
 							<a target="_blank" rel="noreferrer" href="https://80percentmusic.com">
@@ -33,7 +33,7 @@ const services = () => {
 					</div>
 					<br />
 					<div>
-						<h2>Awards:</h2>
+						<h2>Awards</h2>
 						<hr></hr>
 						<p>
 							<a target="_blank" rel="noreferrer" href="https://www.awwwards.com/sites/noisegen-io">

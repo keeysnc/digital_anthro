@@ -64,6 +64,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	color: rgb(46, 137, 235);
+}
+
 * {
 	box-sizing: border-box;
 }

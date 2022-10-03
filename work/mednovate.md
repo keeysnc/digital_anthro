@@ -1,5 +1,5 @@
 ---
-client: Mednovate Connect - Web Design & Development
+client: Mednovate Connect
 title: Branding, Visual Design, Web Development, Squarespace Custom Development
 date: "2020-01-01"
 study: "/work/mednovate"
@@ -7,11 +7,9 @@ link: "https://www.mednovateconnect.com"
 image: "/mednovate.png"
 ---
 
-### Mednovate Connect
+### [View Project](https://www.mednovateconnect.com)
 
 _Web Design / Custom Squarespace Development / UI/UX Design / Visual Design_
-
-### [View Project](https://www.mednovateconnect.com)
 
 **[Mednovate Connect®](https://www.mednovateconnect.com)** is a medication management provider and pioneer of telehealth in the Washington, DC Metro Area.
 
