@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
 					{/* OG Tags */}
 					<meta
 						name="description"
-						content="Design & web development consultant specialized in human-centered design and development for web experiences and applications."
+						content="Creative technologist consultant specialized in human-centered design and development for web experiences and applications."
 					/>
 					<meta property="og:image" content="noise-shift.jpg" />
 
