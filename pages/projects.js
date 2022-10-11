@@ -10,44 +10,33 @@ const services = () => {
 				</Head>
 				<div className={indexStyles.service__info}>
 					<div>
-						<h2>Projects</h2>
 						<hr></hr>
-						<p>
+						<h2>
 							<a target="_blank" rel="noreferrer" href="https://80percentmusic.com">
-								80% Cacao Music - Music Production & Songwriting
+								80% Cacao Music
 							</a>
-						</p>
+						</h2>
 						<hr></hr>
-						<p>
+						<h2>
 							<a target="_blank" rel="noreferrer" href="https://noisegen.io/">
-								noisegen.io - Interactive Perlin Noise Art Generator
+								noisegen.io
 							</a>
-						</p>
+						</h2>
 						<hr></hr>
-						<p>
+						<h2>
 							<a target="_blank" rel="noreferrer" href="https://thelumaproject.com/#/">
-								thelumaproject.com - An audio visual player for self produced instrumental album
+								thelumaproject.com
 							</a>
-						</p>
+						</h2>
+						<hr></hr>
+						<h2>
+							<a target="_blank" rel="noreferrer" href="https://www.80percentmusic.com/installations/noise-shift">
+								Noise Shift Audiovisual Exhibit
+							</a>
+						</h2>
 						<hr></hr>
 					</div>
 					<br />
-					<div>
-						<h2>Awards</h2>
-						<hr></hr>
-						<p>
-							<a target="_blank" rel="noreferrer" href="https://www.awwwards.com/sites/noisegen-io">
-								Awwwards - Honorable Mention - noisegen.io
-							</a>
-						</p>
-						<hr></hr>
-						<p>
-							<a target="_blank" rel="noreferrer" href="https://www.awwwards.com/sites/noisegen-io">
-								Awwwards - Mobile Excellence - noisegen.io
-							</a>
-						</p>
-						<hr></hr>
-					</div>
 				</div>
 			</div>
 		</div>

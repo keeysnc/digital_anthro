@@ -2,7 +2,6 @@ import Head from "next/head";
 import Footer from "../footer/Footer";
 import Nav from "../nav/Nav";
 import Script from "next/script";
-import MobileMenu from "../../components/mobileMenu/MobileMenu";
 
 import styles from "./Layout.module.css";
 
@@ -12,7 +11,7 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro - Creative Technologist</title>
+					<title>Digital Anthro, LLC - Creative Technologist Consultant</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
 					<meta
@@ -22,8 +21,17 @@ const Layout = ({ children }) => {
 					{/* OG Tags */}
 					<meta
 						name="description"
-						content="Digital Anthro is an independent web design & web development studio specialized in human-centered design and development for web experiences and applications."
+						content="Design & web development consultant specialized in human-centered design and development for web experiences and applications."
 					/>
+					<meta property="og:image" content="noise-shift.jpg" />
+
+					<meta property="og:title" content="Creative Technologist Consultant" />
+
+					<meta property="og:description" content="A full description of the page." />
+
+					<meta property="og:image:width" content="1200" />
+
+					<meta property="og:image:height" content="630" />
 					{/*}
 					<meta property="og:title" content={pageTitle} key="ogtitle" />
 					<meta property="og:description" content={description} key="ogdesc" /> */}

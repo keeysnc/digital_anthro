@@ -12,3 +12,7 @@ image: "/noisegen.png"
 _WebGL / Three.js Development_
 
 **[Noisegen](https://noisegen.io/)** is an award-winning experimental app that lets you create different shapes using Perlin Noise.
+
+**[Awwwards - Honorable Mention](https://www.awwwards.com/sites/noisegen-io)**
+
+**[Awwwards - Mobile Excellence](https://www.awwwards.com/sites/noisegen-io)**
