@@ -13,7 +13,7 @@ const about = () => {
 					<div>
 						<h2>Contact</h2>
 						<p>
-							Send us an{" "}
+							Send an{" "}
 							<span>
 								<a href="mailto:nathan@digitalanthro.com" style={{ paddingRight: "0" }}>
 									email

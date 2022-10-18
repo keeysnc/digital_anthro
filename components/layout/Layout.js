@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
 					<meta charSet="utf-8" />
 					<meta
 						name="keywords"
-						content="Creative Technologist DC, UI/UX Design Consultant DC, Fullstack Web Developer DC, Gaithersburg Web Development Consultant"
+						content="Freelance Creative Technologist DC, Freelance UI/UX Design DC, Fullstack Web Developer DC, Freelance Web Development DC, DC Healthcare, DC Fitness, DC Wellness"
 					></meta>
 					{/* OG Tags */}
 					<meta
@@ -27,7 +27,10 @@ const Layout = ({ children }) => {
 
 					<meta property="og:title" content="Creative Technologist Consultant" />
 
-					<meta property="og:description" content="A full description of the page." />
+					<meta
+						property="og:description"
+						content="Creative technologist consultant specialized in human-centered design and development for web experiences and applications."
+					/>
 
 					<meta property="og:image:width" content="1200" />
 
