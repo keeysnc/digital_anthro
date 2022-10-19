@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro, LLC - Creative Technologist Consultant</title>
+					<title>Digital Anthro, LLC - Creative Technologist</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
 					<meta
