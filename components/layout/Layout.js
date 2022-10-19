@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Footer from "../footer/Footer";
 import Nav from "../nav/Nav";
+// import MenuMobile from "../mobileMenu/MobileMenu";
 import Script from "next/script";
 
 import styles from "./Layout.module.css";
@@ -70,6 +71,7 @@ const Layout = ({ children }) => {
 					crossOrigin="anonymous"
 				></Script>
 				<Nav></Nav>
+				{/* <MenuMobile></MenuMobile> */}
 
 				{/* <Pagination></Pagination> */}
 				<div>

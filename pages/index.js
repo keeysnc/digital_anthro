@@ -22,6 +22,7 @@ export default function Home() {
 							<p>Interactive Data & Content Visualization</p>
 							<hr></hr>
 							<p>CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
+							<hr></hr>
 						</div>
 						{/* <br />
 						<div>
