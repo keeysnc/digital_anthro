@@ -1,12 +1,12 @@
 import Head from "next/head";
 import indexStyles from "../styles/Index.module.css";
 
-const services = () => {
+const awards = () => {
 	return (
 		<div className={indexStyles.home}>
 			<div className={indexStyles.home__content}>
 				<Head>
-					<title>Services</title>
+					<title>Awards</title>
 				</Head>
 				<div className={indexStyles.service__info}>
 					<div>
@@ -31,4 +31,4 @@ const services = () => {
 	);
 };
 
-export default services;
+export default awards;

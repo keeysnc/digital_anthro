@@ -22,15 +22,15 @@ const Layout = ({ children }) => {
 					{/* OG Tags */}
 					<meta
 						name="description"
-						content="Creative technologist consultant specialized in human-centered design and development for web experiences and applications."
+						content="Creative technologist specialized in human-centered design and development for web experiences and applications."
 					/>
 					<meta property="og:image" content="noise-shift.jpg" />
 
-					<meta property="og:title" content="Creative Technologist Consultant" />
+					<meta property="og:title" content="Creative Technologist" />
 
 					<meta
 						property="og:description"
-						content="Creative technologist consultant specialized in human-centered design and development for web experiences and applications."
+						content="Creative technologist specialized in human-centered design and development for web experiences and applications."
 					/>
 
 					<meta property="og:image:width" content="1200" />

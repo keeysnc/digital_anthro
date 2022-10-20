@@ -7,21 +7,23 @@ export default function Home() {
 				<div className={indexStyles.home}>
 					<div className={indexStyles.home__content}>
 						{/* Header */}
-						<h2>Creative technologist consultant specialized in human-centered design and fullstack web development for websites & applications.</h2>
+						<h2>Creative technologist specialized in human-centered design and fullstack web development for websites & applications.</h2>
 						<br />
 						<br />
 						<div>
 							<h2>Services:</h2>
 							<hr></hr>
-							<p>UI/UX & Visual Design</p>
+							<p>Interface & Experience Design</p>
 							<hr></hr>
 							<p>Accessibility Design</p>
 							<hr></hr>
-							<p>Fullstack Web Development</p>
+							<p>Frontend & UI Development</p>
 							<hr></hr>
-							<p>Interactive Data & Content Visualization</p>
+							<p>Backend API Development</p>
 							<hr></hr>
-							<p>CMS Integration (Shopify, Contentful, Wordpress, etc)</p>
+							<p>Data & Content Visualization (D3.js)</p>
+							<hr></hr>
+							<p>CMS Integration (Shopify, Contentful, Wordpress, Drupal, etc)</p>
 							<hr></hr>
 						</div>
 						{/* <br />

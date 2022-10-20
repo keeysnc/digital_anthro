@@ -29,6 +29,7 @@ const about = () => {
 									As a consultant, he specializes in designing design systems, building websites and applications with <b>React</b> and <b>Node.js</b>{" "}
 									and other javascript technologies. When he is not consulting, Nathan enjoys traveling, staying active and learning new things.
 								</p>
+
 								<div className="social-media" style={{ paddingTop: "10px" }}>
 									<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/company/digital-anthro" style={{ paddingRight: "10px" }}>
 										LinkedIn
