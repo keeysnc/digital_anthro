@@ -17,23 +17,16 @@ export default function Home() {
 					<hr></hr>
 					<p>Front-End Software Development</p>
 					<hr></hr>
-					<p>Web Design & Development</p>
-					<hr></hr>
 					<p>React Consulting & Development</p>
 					<hr></hr>
 					<p>Interactive Development (WebGL / Three.js)</p>
 					<hr></hr>
-					<p>User Interface Performance Consulting</p>
-					<hr></hr>
 				</div>
 				<br></br>
-
 				<div>
 					<h3>Technologies</h3>
 					<hr></hr>
-					<p>M.E.R.N Stack</p>
-					<hr></hr>
-					<p>State Management Technologies (Redux / Vuex)</p>
+					<p>MERN Stack</p>
 					<hr></hr>
 					<p>Typescript</p>
 					<hr></hr>
@@ -44,13 +37,6 @@ export default function Home() {
 					<p>Creative Technologies (WebGL, Three.js, HTML5 Canvas)</p>
 					<hr></hr>
 				</div>
-				{/* <div>
-					<h3>Domain Knowledge</h3>
-					<ul>
-						<li>Healthcare</li>
-						<li>State Management Technologies (Redux / Vuex)</li>
-					</ul>
-				</div> */}
 			</div>
 			<br></br>
 			<div className="social-media" style={{ paddingTop: "10px" }}>
