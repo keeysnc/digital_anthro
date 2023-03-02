@@ -12,25 +12,22 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro, LLC - Creative Technologist</title>
+					<title>Digital Anthro, LLC - Front-End Web Development Consultant</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
-					<meta
-						name="keywords"
-						content="Freelance Creative Technologist DC, Freelance UI/UX Design DC, Fullstack Web Developer DC, Freelance Web Development DC, DC Healthcare, DC Fitness, DC Wellness"
-					></meta>
+					<meta name="keywords" content="React Developer, React Consultant, WebGL Consultant, Interactive Developer DC"></meta>
 					{/* OG Tags */}
 					<meta
 						name="description"
-						content="Creative technologist specialized in human-centered design and development for web experiences and applications."
+						content="Web development consultant based in Gaithersburg, MD with a specialization in building user-centered web applications and websites."
 					/>
 					<meta property="og:image" content="noise-shift.jpg" />
 
-					<meta property="og:title" content="Creative Technologist" />
+					<meta property="og:title" content="Front-End Web Development Consultant" />
 
 					<meta
 						property="og:description"
-						content="Creative technologist specialized in human-centered design and development for web experiences and applications."
+						content="Web development consultant based in Gaithersburg, MD with a specialization in building user-centered web applications and websites."
 					/>
 
 					<meta property="og:image:width" content="1200" />

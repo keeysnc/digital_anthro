@@ -1,11 +1,10 @@
 import { getSortedPostsData } from "../../utils/dataParser";
 import { getPostData } from "../../utils/markdownToHtml";
-import caseStyles from "../../styles/Case.module.css";
 
-const thelumaproject = ({ contentData }) => {
+const doj = ({ contentData }) => {
 	return (
 		<div>
-			<div className={caseStyles.case__study} dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
+			<div dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
 		</div>
 	);
 };
@@ -13,7 +12,7 @@ const thelumaproject = ({ contentData }) => {
 // runs at build time
 export async function getStaticProps() {
 	const allPostsData = getSortedPostsData();
-	const contentData = await getPostData("thelumaproject");
+	const contentData = await getPostData("doj");
 	return {
 		props: {
 			allPostsData,
@@ -22,4 +21,4 @@ export async function getStaticProps() {
 	};
 }
 
-export default thelumaproject;
+export default doj;

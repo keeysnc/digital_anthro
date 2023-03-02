@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Events from "../components/events/Events";
-import indexStyles from "../styles/Index.module.css";
 
 const events = () => {
 	return (
@@ -8,7 +7,7 @@ const events = () => {
 			<Head>
 				<title>Events</title>
 			</Head>
-			<div className={indexStyles.home}>
+			<div>
 				<h2>Events & Talks</h2>
 				<Events></Events>
 			</div>

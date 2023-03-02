@@ -1,10 +1,7 @@
 import { getSortedPostsData } from "../utils/dataParser";
 import workStyles from "../styles/Work.module.css";
-import indexStyles from "../styles/Index.module.css";
 
 const work = ({ allPostsData }) => {
-	console.log(allPostsData);
-
 	const cards = allPostsData.map((post) => (
 		<div key={post.id}>
 			<li className={workStyles.work__grid__item}>
@@ -19,7 +16,7 @@ const work = ({ allPostsData }) => {
 	));
 
 	return (
-		<div className={indexStyles.home}>
+		<div>
 			<hr />
 			<ul className={workStyles.work__grid}>{cards}</ul>
 		</div>

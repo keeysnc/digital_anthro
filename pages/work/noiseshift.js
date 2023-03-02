@@ -2,12 +2,9 @@ import { getSortedPostsData } from "../../utils/dataParser";
 import { getPostData } from "../../utils/markdownToHtml";
 import caseStyles from "../../styles/Case.module.css";
 
-const noiseshift = ({ contentData, allPostsData }) => {
+const noiseshift = ({ contentData }) => {
 	return (
 		<div>
-			<div className={caseStyles.case__hero}>
-				<img style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center" }} src={allPostsData[3].image} />
-			</div>
 			<div className={caseStyles.case__study} dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
 		</div>
 	);

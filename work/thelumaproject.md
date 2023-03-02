@@ -7,8 +7,10 @@ link: "https://thelumaproject.com/#/"
 image: "/thelumaproject.png"
 ---
 
-### [View Project](https://thelumaproject.com/#/)
+## [thelumaproject.com](https://thelumaproject.com/#/)
 
-_WebGL / Three.js Development_
+### [View Website](https://thelumaproject.com/#/)
 
-**[Thelumaproject.com](https://thelumaproject.com/#/)** is an audiovisual project created by 80% Cacao. The project highlights conversations through instrumentals. Topics circulate around self-esteem, self-evaluation, and open-mindedness.
+_WebGL | Three.js Development_
+
+**[Thelumaproject.com](https://thelumaproject.com/#/)** is an audiovisual project created for my debut instrumental album "Luma". The project highlights conversations through instrumentals. Topics circulate around self-esteem, self-evaluation, and open-mindedness.

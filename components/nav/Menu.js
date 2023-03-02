@@ -9,9 +9,6 @@ const Menu = () => {
 					<Link href="/">Home</Link>
 				</li>
 				<li>
-					<Link href="/about">About</Link>
-				</li>
-				<li>
 					<Link href="/work">Work</Link>
 				</li>
 				<li>
@@ -19,25 +16,22 @@ const Menu = () => {
 						Publications
 					</a>
 				</li>
-				<li>
+				{/* <li>
 					<Link href="/events">Events</Link>
-				</li>
+				</li> */}
 				{/* <li>
 					<Link href="/resume">Resume</Link>
 				</li> */}
 				{/* <li>
 					<Link href="/projects">Projects</Link>
 				</li> */}
-				<li>
-					<Link href="/awards">Awards</Link>
-				</li>
+				{/* <li>
+					<a target="_blank" rel="noreferrer" href="https://www.80percentmusic.com/">
+						Music
+					</a>
+				</li> */}
 				<li>
 					<Link href="/contact">Contact</Link>
-				</li>
-				<li>
-					<a target="_blank" rel="noreferrer" href="https://www.80percentmusic.com/">
-						Sounds
-					</a>
 				</li>
 			</ul>
 		</div>

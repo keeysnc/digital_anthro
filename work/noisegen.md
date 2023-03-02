@@ -4,15 +4,15 @@ title: WebGL & Three.js Development
 date: "2020-01-01"
 study: "/work/noisegen"
 link: "https://noisegen.io/"
-image: "/noisegen.png"
 ---
 
-### [View Project](https://noisegen.io/)
+## Noisegen.io
 
-_WebGL / Three.js Development_
+### [View Website](https://noisegen.io/)
 
-**[Noisegen](https://noisegen.io/)** is an award-winning experimental app that lets you create different shapes using Perlin Noise.
+_WebGL | Three.js Development_
 
-**[Awwwards - Honorable Mention](https://www.awwwards.com/sites/noisegen-io)**
+Noisegen is an award-winning experimental 3D Perlin Noise generator that saves and exports your art.
 
-**[Awwwards - Mobile Excellence](https://www.awwwards.com/sites/noisegen-io)**
+_[Awwwards - Honorable Mention](https://www.awwwards.com/sites/noisegen-io)_\
+_[Awwwards - Mobile Excellence](https://www.awwwards.com/sites/noisegen-io)_
