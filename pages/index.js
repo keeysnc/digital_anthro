@@ -24,17 +24,23 @@ export default function Home() {
 				</div>
 				<br></br>
 				<div>
-					<h3>Technologies</h3>
+					<h3>Notable Clients</h3>
 					<hr></hr>
-					<p>MERN Stack</p>
+					<p>Accenture</p>
 					<hr></hr>
-					<p>Typescript</p>
+					<p>RP3 Agency</p>
 					<hr></hr>
-					<p>React Frameworks (Next.js | Gatsby)</p>
+					<p>DOJ</p>
 					<hr></hr>
-					<p>Cypress & Jest Testing Suites</p>
+					<p>USDA</p>
 					<hr></hr>
-					<p>Creative Technologies (WebGL, Three.js, HTML5 Canvas)</p>
+					<p>Centers for Medicare & Medicaid Services</p>
+					<hr></hr>
+					<p>Mednovate Connect</p>
+					<hr></hr>
+					<p>Childrens National Hospital</p>
+					<hr></hr>
+					<p>Westat</p>
 					<hr></hr>
 				</div>
 			</div>
