@@ -5,7 +5,7 @@ const Footer = () => {
 		<footer className={footerStyles.footer}>
 			<div className={footerStyles.footer__container}>
 				<div>
-					<p>Digital Anthro, LLC - Copyright 2022</p>
+					<p>Nate Keeys - Copyright 2023</p>
 				</div>
 			</div>
 		</footer>

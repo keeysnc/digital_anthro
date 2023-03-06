@@ -12,7 +12,7 @@ const Layout = ({ children }) => {
 		<>
 			<div className={styles.layout__container}>
 				<Head>
-					<title>Digital Anthro, LLC - Front-End Web Development Consultant</title>
+					<title>Front-End Web Development Engineer | Consultant</title>
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<meta charSet="utf-8" />
 					<meta name="keywords" content="React Developer, React Consultant, WebGL Consultant, Interactive Developer DC"></meta>
