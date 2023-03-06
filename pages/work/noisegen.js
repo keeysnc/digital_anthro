@@ -3,11 +3,7 @@ import { getPostData } from "../../utils/markdownToHtml";
 import caseStyles from "../../styles/Case.module.css";
 
 const noisegen = ({ contentData }) => {
-	return (
-		<div>
-			<div className={caseStyles.case__study} dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
-		</div>
-	);
+	return <div className={caseStyles.case__study} dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>;
 };
 
 // runs at build time

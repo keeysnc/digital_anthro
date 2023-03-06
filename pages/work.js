@@ -16,7 +16,7 @@ const work = ({ allPostsData }) => {
 	));
 
 	return (
-		<div>
+		<div style={{ paddingTop: "50px" }}>
 			<hr />
 			<ul className={workStyles.work__grid}>{cards}</ul>
 		</div>

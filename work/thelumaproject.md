@@ -13,4 +13,6 @@ image: "/thelumaproject.png"
 
 _WebGL | Three.js Development_
 
+##### Overview
+
 **[Thelumaproject.com](https://thelumaproject.com/#/)** is an audiovisual project created for my debut instrumental album "Luma". The project highlights conversations through instrumentals. Topics circulate around self-esteem, self-evaluation, and open-mindedness.

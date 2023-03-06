@@ -8,6 +8,9 @@ const Menu = () => {
 				<li>
 					<Link href="/">Home</Link>
 				</li>
+				{/* <li>
+					<Link href="/about">About</Link>
+				</li> */}
 				<li>
 					<Link href="/work">Work</Link>
 				</li>
@@ -16,9 +19,7 @@ const Menu = () => {
 						Publications
 					</a>
 				</li>
-				{/* <li>
-					<Link href="/events">Events</Link>
-				</li> */}
+
 				{/* <li>
 					<Link href="/resume">Resume</Link>
 				</li> */}

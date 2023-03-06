@@ -1,10 +1,11 @@
 import { getSortedPostsData } from "../../utils/dataParser";
 import { getPostData } from "../../utils/markdownToHtml";
+import caseStyles from "../../styles/Case.module.css";
 
-const nih = ({ contentData }) => {
+const hhear = ({ contentData }) => {
 	return (
 		<div>
-			<div dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
+			<div className={caseStyles.case__study} dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
 		</div>
 	);
 };
@@ -12,7 +13,7 @@ const nih = ({ contentData }) => {
 // runs at build time
 export async function getStaticProps() {
 	const allPostsData = getSortedPostsData();
-	const contentData = await getPostData("nih");
+	const contentData = await getPostData("hhear");
 	return {
 		props: {
 			allPostsData,
@@ -21,4 +22,4 @@ export async function getStaticProps() {
 	};
 }
 
-export default nih;
+export default hhear;

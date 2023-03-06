@@ -1,10 +1,11 @@
 import { getSortedPostsData } from "../../utils/dataParser";
 import { getPostData } from "../../utils/markdownToHtml";
+import caseStyles from "../../styles/Case.module.css";
 
 const doj = ({ contentData }) => {
 	return (
 		<div>
-			<div dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
+			<div className={caseStyles.case__study} dangerouslySetInnerHTML={{ __html: contentData.contentHtml }}></div>
 		</div>
 	);
 };
