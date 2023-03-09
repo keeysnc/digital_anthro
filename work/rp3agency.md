@@ -11,4 +11,10 @@ study: "/work/rp3agency"
 
 _Front-end Web Developer_
 
-During my tenure at RP3 Agency, I worked alongside the Creative Technology department as their front-end web developer. One of the main projects I contributed to was the architecting of the front-end interface for the new RP3 website.
+##### Overview
+
+During my time at RP3 Agency they were working on a rebrand which included the redesign and development of their website. I was a part of the Creative Technology department as one of the front-end web developers. Our team worked closely with strategy, the design department and even the founders of the company to make sure the design, messaging and platform was suitable for the new website.
+
+##### Solution
+
+My responsibilities on the project started as researching a viable CMS for holding the sites content, handling high-res imagery, useable for content editors. I worked closely with the Tech Director during this time learning the chosen CMS which I had no prior experience with. During the research and development phases I created content flow diagrams on how the content will be structured within the CMS. This helped me become familiar with the system as well as formalize an attack plan for building the front-end. My main role was was building out the front-end of the website, structuring the content types within the CMS and utilizing the CMS's templating language to display dynamic content. Along side my development work, I worked closely with the Creative Director, Dev Ops and the design team to close deadlines and make updates.
