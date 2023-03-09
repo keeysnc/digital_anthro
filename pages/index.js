@@ -1,9 +1,11 @@
+import indexStyles from "../styles/Index.module.css";
+
 export default function Home() {
 	return (
-		<div style={{ paddingTop: "50px" }}>
+		<div>
 			<div>
-				<h3>Nathan Keeys - Front-End Web Engineer | Software Consultant</h3>
-				<h2>Building interfaces for modern web applications and interactive web experiences.</h2>
+				<h3 className={indexStyles.index_h3}>Nathan Keeys - Front-End Web Engineer | Software Consultant</h3>
+				<h1>Building interfaces for modern web applications and interactive web experiences.</h1>
 				<p>
 					Nathan Keeys is a software engineer, and consultant with a specialization in architecting interactive user web interfaces. He has worked in
 					design, tech, and consulting industries for 10+ years with an array of companies ranging from creative agencies to in-house consultancies.
@@ -14,7 +16,7 @@ export default function Home() {
 			<br></br>
 			<div>
 				<div>
-					<h3>Specialization</h3>
+					<h3 className={indexStyles.index_h3}>Specialization</h3>
 					<hr></hr>
 					<p>Microservices</p>
 					<hr></hr>
@@ -27,7 +29,7 @@ export default function Home() {
 				</div>
 				<br></br>
 				<div>
-					<h3>Notable Clients</h3>
+					<h3 className={indexStyles.index_h3}>Notable Clients</h3>
 					<hr></hr>
 					<p>Accenture</p>
 					<hr></hr>
@@ -52,7 +54,7 @@ export default function Home() {
 				</div>
 				<br></br>
 				<div>
-					<h3>Technologies currently used</h3>
+					<h3 className={indexStyles.index_h3}>Technologies currently used</h3>
 					<hr></hr>
 					<p>React | Redux | Typescript</p>
 					<hr></hr>

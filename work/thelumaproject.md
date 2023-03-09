@@ -7,9 +7,9 @@ link: "https://thelumaproject.com/#/"
 image: "/thelumaproject.png"
 ---
 
-## [thelumaproject.com](https://thelumaproject.com/#/)
+### [thelumaproject.com](https://thelumaproject.com/#/)
 
-### [View Website](https://thelumaproject.com/#/)
+#### [View Website](https://thelumaproject.com/#/)
 
 _WebGL | Three.js Development_
 

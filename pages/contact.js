@@ -7,7 +7,7 @@ const about = () => {
 				<title>Contact</title>
 			</Head>
 			<div>
-				<h2>Contact</h2>
+				<h1>Contact</h1>
 				<p>
 					Send an{" "}
 					<span>

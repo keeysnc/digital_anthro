@@ -6,9 +6,9 @@ study: "/work/noisegen"
 link: "https://noisegen.io/"
 ---
 
-## Noisegen.io
+### Noisegen.io
 
-### [View Website](https://noisegen.io/)
+#### [View Website](https://noisegen.io/)
 
 _WebGL | Three.js Development_
 

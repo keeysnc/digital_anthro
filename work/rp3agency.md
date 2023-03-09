@@ -5,9 +5,9 @@ date: "2020-01-01"
 study: "/work/rp3agency"
 ---
 
-## [RP3 Agency](https://rp3agency.com)
+### [RP3 Agency](https://rp3agency.com)
 
-### [View Website](https://rp3agency.com)
+#### [View Website](https://rp3agency.com)
 
 _Front-end Web Developer_
 

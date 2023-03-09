@@ -43,3 +43,9 @@
 		overflow: hidden;
 	}
 }
+
+@media (max-width: 768px) {
+	.work__h3 {
+		font-size: 1.5rem;
+	}
+}

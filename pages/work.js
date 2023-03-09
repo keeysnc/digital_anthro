@@ -7,7 +7,7 @@ const work = ({ allPostsData }) => {
 			<li className={workStyles.work__grid__item}>
 				<a href={post.study}>
 					<div className={workStyles.work__case__info}>
-						<h2>{post.client}</h2>
+						<h2 className={workStyles.work__h3}>{post.client}</h2>
 					</div>
 				</a>
 			</li>
@@ -16,7 +16,7 @@ const work = ({ allPostsData }) => {
 	));
 
 	return (
-		<div style={{ paddingTop: "50px" }}>
+		<div>
 			<hr />
 			<ul className={workStyles.work__grid}>{cards}</ul>
 		</div>
